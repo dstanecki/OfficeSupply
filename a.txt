@@ -1,0 +1,2677 @@
+O,Atento S.A., R9,9/13/2003,18
+O,BlackRock Science and Technology Trust, D6,10/4/2000,28
+O,Bank of Nova Scotia (The), Z6,2/18/2003,28
+O,Voya Natural Resources Equity Income Fund, S8,6/20/2010,26
+O,Two Harbors Investments Corp, B0,2/15/2007,30
+O,Leju Holdings Limited, C0,12/12/2014,8
+O,Whirlpool Corporation, X3,11/14/2011,19
+O,Booz Allen Hamilton Holding Corporation, E0,10/16/2004,6
+O,Travelport Worldwide Limited, P4,3/22/2005,21
+O,American States Water Company, Q4,7/21/2012,23
+O,Nuveen Preferred and Income 2022 Term Fund, L6,3/22/2006,20
+O,BT Group plc, U8,3/8/2001,21
+O,Azure Power Global Limited, P1,7/13/2014,9
+O,F.N.B. Corporation, B3,1/25/2016,23
+O,Global Cord Blood Corporation, A8,3/16/2001,25
+O,THL Credit Senior Loan Fund, A0,8/22/2003,1
+O,Quotient Technology Inc., A3,4/28/2002,2
+O,Tsakos Energy Navigation Ltd, E3,3/7/2012,11
+O,Iamgold Corporation, O6,8/12/2000,5
+O,STORE Capital Corporation, R4,12/14/2008,21
+O,Lithium Americas Corp., Q1,8/7/2016,22
+O,iStar Inc., U6,7/12/2003,9
+O,S&P Global Inc., P3,2/17/2006,6
+O,Corporate Office Properties Trust, X3,10/27/2017,18
+O,KeyCorp, J4,6/8/2015,21
+O,Whitestone REIT, K7,4/19/2002,26
+O,Capital One Financial Corporation, P5,10/25/2014,28
+O,CoreSite Realty Corporation, A9,10/22/2003,8
+O,Social Capital Hedosophia Holdings Corp., Q1,10/12/2013,4
+O,CURO Group Holdings Corp., Z4,4/9/2009,17
+O,Aon plc, U7,3/3/2017,2
+O,Masco Corporation, D7,11/11/2017,2
+O,Synovus Financial Corp., U7,12/8/2003,8
+O,Nuveen High Income December 2019 Target Term Fund, M6,12/4/2013,1
+O,Mitsubishi UFJ Financial Group Inc, K7,10/5/2000,13
+O,Eros International PLC, U6,1/27/2009,14
+O,Fortive Corporation, Y1,11/27/2010,21
+O,Unilever PLC, V9,4/16/2015,12
+O,Public Storage, T2,10/6/2008,14
+O,The Charles Schwab Corporation, G2,11/22/2005,19
+O,Green Dot Corporation, I8,6/10/2010,24
+O,Teekay LNG Partners L.P., X0,3/4/2007,19
+O,Euronav NV, C9,1/23/2009,6
+O,Pioneer Natural Resources Company, A7,5/23/2004,11
+O,Hoegh LNG Partners LP, W3,1/24/2016,11
+O,Capital One Financial Corporation, T9,11/16/2007,27
+O,Synovus Financial Corp., C1,1/15/2018,17
+O,TransCanada Corporation, Q8,6/1/2010,16
+O,Aircastle Limited, E0,11/12/2018,15
+O,General Dynamics Corporation, H8,10/23/2001,12
+O,China New Borun Corporation, G2,2/17/2003,27
+O,Braemar Hotels & Resorts Inc., A9,8/9/2007,3
+O,Crown Castle International Corporation, W0,8/5/2015,26
+O,High Income Securities Fund, M1,9/7/2006,7
+O,Total S.A., E1,2/26/2012,5
+O,TCF Financial Corporation, Y1,5/14/2017,5
+O,Forestar Group Inc, K2,2/12/2007,20
+O,Briggs & Stratton Corporation, M5,5/7/2016,24
+O,Axis Capital Holdings Limited, O7,2/20/2002,5
+O,Braemar Hotels & Resorts Inc., A0,4/21/2012,26
+O,Park Electrochemical Corporation, V7,3/4/2016,10
+O,Nuveen Maryland Quality Municipal Income Fund, E9,5/14/2017,22
+O,AllianzGI Diversified Income & Convertible Fund, R6,9/25/2018,28
+O,Fiduciary/Claymore Energy Infrastructure Fund, H6,9/20/2010,3
+O,Eaton Vance Floating-Rate 2022 Target Term Trust, I2,7/13/2008,20
+O,Corporacion America Airports SA, D9,6/22/2018,23
+O,AECOM, S4,9/8/2001,13
+O,Wells Fargo & Company, I7,11/5/2003,9
+O,ECA Marcellus Trust I, P0,3/4/2011,17
+O,Nuveen Emerging Markets Debt 2022 Target Term Fund, K4,5/17/2017,15
+O,Comerica Incorporated, S8,11/27/2014,19
+O,Southern Company (The), T5,9/9/2007,24
+O,Danaher Corporation, N0,4/26/2007,6
+O,Toyota Motor Corp Ltd Ord, A5,12/6/2015,19
+O,RenaissanceRe Holdings Ltd., G8,8/28/2010,22
+O,Cantel Medical Corp., G5,5/15/2013,27
+O,New Home Company Inc. (The), M2,9/6/2018,7
+O,Bloom Energy Corporation, W9,3/11/2003,11
+O,Barrick Gold Corporation, Y0,4/15/2008,29
+O,Federal Signal Corporation, J4,5/22/2012,28
+O,Hexcel Corporation, A4,2/6/2000,9
+O,Phoenix New Media Limited, G5,6/19/2006,10
+O,LMP Capital and Income Fund Inc., D6,4/18/2007,29
+O,Anworth Mortgage Asset  Corporation, W3,2/21/2005,12
+O,Alibaba Group Holding Limited, L1,12/3/2000,24
+O,PartnerRe Ltd., D6,1/25/2011,29
+O,Extra Space Storage Inc, J1,6/21/2001,22
+O,Fly Leasing Limited, O7,11/21/2004,13
+O,Unisys Corporation, F9,6/10/2005,7
+O,Union Pacific Corporation, K2,8/2/2017,13
+O,Evercore Inc., E6,12/7/2001,8
+O,VALE S.A., E2,4/2/2011,27
+O,Cabot Oil & Gas Corporation, T8,12/11/2018,11
+O,GS Acquisition Holdings Corp., Z7,7/2/2009,21
+O,Ampco-Pittsburgh Corporation, C7,4/13/2005,1
+O,Callon Petroleum Company, B3,3/17/2016,6
+O,Keurig Dr Pepper Inc., D6,5/25/2004,3
+O,Pimco Corporate & Income Opportunity Fund, P5,6/9/2012,4
+O,Steelcase Inc., E1,9/21/2018,23
+O,Ellington Financial LLC, K2,11/18/2012,12
+O,Steelcase Inc., L5,6/28/2010,15
+O,Universal Technical Institute Inc, R6,1/26/2018,1
+O,Crescent Point Energy Corporation, S6,9/19/2011,21
+O,First Trust/Aberdeen Emerging Opportunity Fund, S2,12/19/2005,6
+O,HNI Corporation, O5,11/27/2014,26
+O,Masco Corporation, A9,9/12/2001,9
+O,PIMCO Municipal Income Fund, O5,9/4/2018,23
+O,Chemours Company (The), P0,12/4/2007,10
+O,Pimco New York Municipal Income Fund II, T4,11/9/2017,25
+O,Westwood Holdings Group Inc, M9,2/6/2005,9
+O,Cigna Corporation, D3,12/1/2017,5
+O,Morgan Stanley China A Share Fund Inc., U6,6/11/2005,27
+O,Costamare Inc., U1,10/22/2002,27
+O,Global Payments Inc., G2,6/22/2004,21
+O,Magellan Midstream Partners L.P., U5,4/17/2011,24
+O,Livent Corporation, X3,7/23/2011,30
+O,Sony Corp Ord, H9,3/24/2006,8
+O,Eaton Vance Tax-Managed Diversified Equity Income Fund, A0,6/10/2009,7
+O,Farfetch Limited, F2,2/27/2014,22
+O,Parker-Hannifin Corporation, I7,3/5/2004,3
+O,Universal Health Realty Income Trust, Z5,10/23/2017,29
+O,Nuveen Mortgage Opportunity Term Fund, R2,12/20/2008,23
+O,Regal Beloit Corporation, N4,6/6/2001,2
+O,Sun Life Financial Inc., S0,5/13/2002,6
+O,Advance Auto Parts Inc, O6,5/15/2004,9
+O,Chesapeake Lodging Trust, D3,12/20/2000,17
+O,Costamare Inc., X0,1/24/2014,9
+O,Public Storage, M0,9/25/2015,5
+O,Gabelli Utility Trust (The), U9,1/15/2017,3
+O,Drive Shack Inc., H3,2/2/2016,26
+O,Bank of America Corporation, R3,7/4/2015,3
+O,La-Z-Boy Incorporated, O2,10/2/2007,16
+O,Tsakos Energy Navigation Ltd, Q9,9/18/2011,8
+O,Mosaic Acquisition Corp., L8,8/7/2000,12
+O,Nuveen High Income December 2019 Target Term Fund, Z0,8/20/2018,19
+O,XAI Octagon Floating Rate & Alternative Income Term Trust, Y8,3/27/2006,2
+O,Delaware Enhanced Global Dividend, I6,1/20/2012,22
+O,The Charles Schwab Corporation, N0,9/14/2000,16
+O,Exelon Corporation, C3,6/3/2017,23
+O,Cision Ltd., Z9,12/27/2017,23
+O,United Technologies Corporation, O7,9/8/2000,8
+O,Banco Bradesco Sa, I6,3/4/2008,28
+O,First BanCorp., X9,10/2/2015,5
+O,CTS Corporation, U4,3/3/2003,10
+O,First Data Corporation, R6,11/21/2001,18
+O,Southern Company (The), T7,1/19/2013,29
+O,PIMCO Dynamic Credit and Mortgage Income Fund, O6,11/25/2001,6
+O,Bank of America Corporation, K6,3/28/2018,18
+O,PIMCO California Municipal Income Fund, O1,12/27/2002,12
+O,Urstadt Biddle Properties Inc., G8,5/14/2009,7
+O,Sumitomo Mitsui Financial Group Inc, Q2,5/17/2014,16
+O,Royal Bank Of Canada, O0,5/12/2012,15
+O,RELX PLC, J2,11/10/2000,23
+O,Concho Resources Inc., L1,12/12/2018,10
+O,Eaton Vance Tax-Managed Diversified Equity Income Fund, B8,10/20/2000,18
+O,Unisys Corporation, R7,11/21/2007,27
+O,MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14, V0,3/17/2018,4
+O,KeyCorp, Q5,2/10/2008,19
+O,Chatham Lodging Trust (REIT), S3,6/24/2001,23
+O,Unit Corporation, R7,2/4/2014,1
+O,Cameco Corporation, A1,7/13/2016,16
+O,Investors Real Estate Trust, F7,2/20/2013,27
+O,Fair Isaac Corporation, Y0,2/17/2016,2
+O,Hovnanian Enterprises Inc, B7,6/9/2013,30
+O,Ciner Resources LP, O6,12/9/2010,27
+O,Arthur J. Gallagher & Co., W6,2/19/2017,5
+O,GasLog Partners LP, C4,10/22/2017,25
+O,Global Payments Inc., W7,2/27/2011,4
+O,The Madison Square Garden Company, A0,7/11/2010,20
+O,Graphic Packaging Holding Company, C7,8/28/2012,19
+O,PennyMac Mortgage Investment Trust, W5,3/17/2005,28
+O,Chimera Investment Corporation, E1,8/3/2011,1
+O,KT Corporation, L7,11/25/2011,24
+O,Compass Diversified Holdings, A1,9/11/2017,23
+O,Nuveen High Income December 2019 Target Term Fund, R5,5/12/2003,15
+O,Evoqua Water Technologies Corp., R0,6/28/2000,17
+O,McKesson Corporation, X0,4/4/2003,22
+O,LyondellBasell Industries NV, J9,5/23/2003,24
+O,Capitol Investment Corp. IV, J6,9/28/2009,29
+O,Apartment Investment and Management Company, Q6,5/27/2006,25
+O,PartnerRe Ltd., T6,10/11/2005,28
+O,Brixmor Property Group Inc., C5,2/20/2011,15
+O,Comp En De Mn Cemig ADS, D5,6/22/2007,11
+O,Social Capital Hedosophia Holdings Corp., W4,6/11/2015,24
+O,PIMCO New York Municipal Income Fund, L3,3/15/2016,6
+O,Macquarie Infrastructure Corporation , S0,6/9/2001,29
+O,Invesco Quality Municipal Income Trust, Z9,10/5/2011,25
+O,Babcock, J6,2/27/2012,20
+O,Gabelli Multi-Media Trust Inc. (The), W9,3/10/2009,21
+O,Western Asset Emerging Markets Debt Fund Inc, M1,3/5/2006,18
+O,Prestige Consumer Healthcare Inc., T8,11/12/2000,23
+O,American Water Works, C5,10/19/2004,22
+O,HollyFrontier Corporation, U4,4/21/2011,25
+O,Lsb Industries Inc., T7,10/15/2001,4
+O,Nuveen Credit Opportunities 2022 Target Term Fund, F8,7/7/2001,7
+O,Centrais Electricas Brasileiras S.A.- Eletrobras, E2,11/12/2016,20
+O,Global Cord Blood Corporation, T2,7/10/2006,10
+O,Invacare Corporation, Q8,6/11/2008,16
+O,Aon plc, S9,2/25/2015,20
+O,Braemar Hotels & Resorts Inc., O4,2/27/2008,27
+O,Universal Health Realty Income Trust, J0,10/11/2002,3
+O,W.R. Berkley Corporation, U2,11/4/2011,7
+O,Spire Inc., Y5,7/13/2001,4
+O,Travelport Worldwide Limited, P5,4/16/2013,25
+O,Biglari Holdings Inc., Q8,3/27/2005,5
+O,Ready Capital Corporation, X7,5/1/2010,1
+O,Arbor Realty Trust, G9,10/4/2007,26
+O,Eaton Vance Corporation, G2,2/14/2011,4
+O,Chemours Company (The), Y7,9/14/2017,10
+O,EPR Properties, F3,7/20/2006,10
+O,Nuveen AMT-Free Quality Municipal Income Fund, M1,4/12/2006,12
+O,Jefferies Financial Group Inc., Q8,1/2/2018,10
+O,Flaherty & Crumrine Preferred Income Fund Incorporated, H4,3/10/2003,19
+O,Altria Group, J3,6/12/2018,6
+O,New Mountain Finance Corporation, S8,12/1/2017,4
+O,Transportadora De Gas Sa Ord B, F0,12/4/2008,22
+O,Aegon NV, E8,11/27/2017,6
+O,Kimco Realty Corporation, F0,7/3/2007,30
+O,Centrais Electricas Brasileiras S.A.- Eletrobras, Z7,11/27/2018,21
+O,First Trust Energy Infrastructure Fund, N5,4/11/2000,6
+O,Halliburton Company, T9,3/27/2017,16
+O,Intelsat S.A., G3,5/3/2000,28
+O,Taylor Morrison Home Corporation, P3,8/12/2015,7
+O,First Trust New Opportunities MLP & Energy Fund, Y4,3/23/2011,18
+O,KKR & Co. Inc., A7,8/2/2005,24
+O,BlackRock Maryland Municipal Bond Trust, F5,4/28/2018,1
+O,Independence Holding Company, R2,7/3/2011,2
+O,First Trust Senior Floating Rate Income Fund II, Q0,8/7/2012,16
+O,Barclays PLC, C1,7/22/2015,6
+O,Oshkosh Corporation, E4,8/23/2017,24
+O,Nuveen Virginia Quality Municipal Income Fund, M7,3/6/2004,25
+O,Putnam Managed Municipal Income Trust, A1,5/7/2005,29
+O,Nuveen Preferred and Income Term Fund, B1,7/4/2002,17
+O,Vistra Energy Corp., C7,9/27/2015,4
+O,Getty Realty Corporation, D6,1/11/2009,17
+O,Investors Real Estate Trust, C1,6/18/2007,12
+O,PIMCO Municipal Income Fund III, B0,9/15/2018,25
+O,Washington Prime Group Inc., C0,4/11/2012,26
+O,Bank of America Corporation, I4,11/17/2018,25
+O,Banco Santander Brasil SA, K7,8/3/2013,22
+O,CPB Inc., K6,5/8/2006,5
+O,Kimbell Royalty Partners, L8,10/7/2017,11
+O,Invesco Municipal Income Opportunities Trust, F7,1/8/2007,26
+O,Credit Suisse Group, Y7,11/12/2015,8
+O,Eaton Vance Municipal Income Trust, W9,2/12/2000,30
+O,Marathon Oil Corporation, T7,8/26/2017,27
+O,Zymeworks Inc., H5,5/25/2006,23
+O,Pioneer Municipal High Income Trust, R2,4/26/2010,12
+O,Commercial Metals Company, L0,4/5/2010,14
+O,PennyMac Mortgage Investment Trust, X2,10/25/2000,26
+O,Colfax Corporation, C8,9/2/2011,17
+O,HP Inc., V7,1/8/2012,17
+O,Eaton Vance Tax-Advantaged Bond, M1,12/12/2011,6
+O,ABB Ltd, J2,2/1/2012,1
+O,International Paper Company, G3,7/4/2004,29
+O,Herbalife Nutrition Ltd., M8,2/25/2018,25
+O,Nuveen Minnesota Quality Municipal Income Fund, L5,7/13/2001,13
+O,Advance Auto Parts Inc, P7,2/2/2001,30
+O,Ellington Financial LLC, C0,1/3/2001,28
+O,Federated Premier Municipal Income Fund, K9,4/8/2002,14
+O,Valvoline Inc., V1,6/7/2001,26
+O,Granite Point Mortgage Trust Inc., Q0,6/23/2005,29
+O,E.I. du Pont de Nemours and Company, I1,2/26/2015,22
+O,Goldman Sachs MLP Income Opportunities Fund, T7,7/13/2017,25
+O,Comp En De Mn Cemig ADS, R8,2/7/2012,4
+O,Drive Shack Inc., Y2,6/2/2018,5
+O,Sempra Energy, F2,1/20/2013,30
+O,Gabelli Global Small and Mid Cap Value Trust (The), O5,11/13/2012,12
+O,Adtalem Global Education Inc., Y1,6/19/2002,22
+O,Voya Asia Pacific High Dividend Equity Income Fund, E0,3/14/2004,1
+O,Anworth Mortgage Asset  Corporation, I4,12/6/2005,19
+O,State Street Corporation, A0,12/12/2016,14
+O,Eagle Materials Inc, R9,5/20/2001,14
+O,Western Asset Emerging Markets Debt Fund Inc, Y0,1/9/2012,27
+O,BlackRock New York Municipal Income Trust II, K3,3/17/2015,22
+O,Gabelli Utility Trust (The), M2,1/24/2006,25
+O,National Fuel Gas Company, Y8,6/14/2005,29
+O,Ryerson Holding Corporation, H8,10/16/2008,2
+O,J P Morgan Chase & Co, C9,8/23/2010,29
+O,Apollo Commercial Real Estate Finance, J7,9/15/2000,24
+O,Avianca Holdings S.A., E9,5/1/2013,26
+O,Shopify Inc., D3,11/22/2009,11
+O,Edwards Lifesciences Corporation, M7,9/10/2003,19
+O,Carvana Co., S7,9/9/2017,14
+O,State Street Corporation, H0,1/5/2005,9
+O,Blackrock MuniYield Investment Fund, S5,8/28/2013,7
+O,Alliance California Municipal Income Fund Inc, H8,7/21/2018,29
+O,Canada Goose Holdings Inc., N1,11/6/2003,9
+O,Jacobs Engineering Group Inc., C8,5/15/2008,3
+O,Nuveen Pennsylvania Quality Municipal Income Fund, L7,4/13/2003,2
+O,Social Capital Hedosophia Holdings Corp., K8,6/5/2012,17
+O,Korea Electric Power Corporation, L7,3/23/2004,27
+O,Newfield Exploration Company, H4,5/17/2011,26
+O,Comcast Corporation, Y9,12/21/2017,3
+O,Virtus Total Return Fund Inc., E5,9/15/2004,5
+O,Masonite International Corporation, B0,7/26/2001,22
+O,Embraer S.A., I1,10/5/2009,29
+O,First Trust Dynamic Europe Equity Income Fund, D3,9/5/2011,22
+O,Chubb Limited, J9,6/13/2011,19
+O,Bank of America Corporation, W8,1/15/2006,15
+O,Sun Life Financial Inc., A4,6/5/2009,21
+O,State Street Corporation, J0,2/22/2012,10
+O,Sociedad Quimica y Minera S.A., L5,1/3/2015,17
+O,Precision Drilling Corporation, Q8,6/4/2003,23
+O,TimkenSteel Corporation, G9,9/28/2004,21
+O,Washington Prime Group Inc., Q7,3/11/2013,18
+O,TimkenSteel Corporation, A8,6/21/2001,1
+O,Baytex Energy Corp, L6,5/14/2018,17
+O,Federal Realty Investment Trust, L9,8/22/2008,26
+O,FIRST REPUBLIC BANK, X5,10/26/2014,29
+O,Lsb Industries Inc., Z2,12/22/2007,28
+O,CPFL Energia S.A., W8,5/19/2015,11
+O,Flaherty & Crumrine Preferred Income Opportunity Fund Inc, U8,11/28/2007,12
+O,Snap Inc., K9,12/5/2001,13
+O,Canadian Natural Resources Limited, U7,4/25/2002,18
+O,Domino&#39;s Pizza Inc, I7,12/3/2010,19
+O,M&T Bank Corporation, K2,12/12/2005,17
+O,Eaton Vance High Income 2021 Target Term Trust, O2,2/4/2005,27
+O,NASDAQ TEST STOCK, P7,2/20/2010,4
+O,Duff & Phelps Select MLP and Midstream Energy Fund, R2,8/27/2017,16
+O,Luxfer Holdings PLC, J4,1/12/2008,2
+O,Gabelli Dividend, J3,9/1/2005,27
+O,Nuveen Massachusetts Municipal Income Fund, L7,3/26/2017,21
+O,58.com Inc., O0,4/22/2017,8
+O,PIMCO Income Strategy Fund, G5,10/24/2015,5
+O,Nuven Mortgage Opportunity Term Fund 2, X6,3/8/2010,24
+O,Dynagas LNG Partners LP, D8,9/5/2009,9
+O,Pzena Investment Management Inc, X8,9/24/2002,10
+O,Western Alliance Bancorporation, C9,1/12/2005,8
+O,Nuveen Virginia Quality Municipal Income Fund, X1,12/1/2005,14
+O,First Majestic Silver Corp., R8,9/28/2015,17
+O,Prudential Public Limited Company, G3,8/24/2016,22
+O,Black Hills Corporation, V3,7/28/2014,5
+O,Embotelladora Andina S.A., P4,9/3/2016,29
+O,The Charles Schwab Corporation, K9,11/3/2018,17
+O,Cohen & Steers Inc, Z0,10/22/2002,15
+O,Celanese Corporation, B5,11/22/2016,10
+O,voxeljet AG, G9,4/6/2018,10
+O,Arlington Asset Investment Corp, A4,7/8/2018,7
+O,The AES Corporation, T4,12/3/2006,20
+O,Invesco Trust for Investment Grade Municipals, Z5,12/15/2000,15
+O,Canadian Pacific Railway Limited, T4,8/15/2014,9
+O,Washington Prime Group Inc., D6,7/10/2014,16
+O,Olin Corporation, M8,11/7/2002,27
+O,Blue Capital Reinsurance Holdings Ltd., O0,1/20/2013,22
+O,Grupo Televisa S.A., L6,6/5/2001,15
+O,HollyFrontier Corporation, W4,2/24/2007,12
+O,Quorum Health Corporation, J0,10/28/2008,18
+O,Covia Holdings Corporation, S2,1/26/2010,26
+O,WNS (Holdings) Limited, U4,8/25/2006,18
+O,Sterling Bancorp, O1,2/24/2016,10
+O,Annaly Capital Management Inc, N2,8/18/2015,15
+O,Alleghany Corporation, Z0,12/2/2009,29
+O,Western Alliance Bancorporation, M8,12/17/2010,24
+O,Molson Coors Brewing  Company, L2,2/14/2006,10
+O,Hillenbrand Inc, E3,12/12/2017,15
+O,Nuveen Pennsylvania Quality Municipal Income Fund, P5,11/7/2010,20
+O,Ares Management Corporation, L3,3/2/2008,8
+O,Leaf Group Ltd., R5,9/24/2005,20
+O,SAP SE, Z0,2/23/2011,18
+O,BlackRock Resources, Z4,4/12/2003,16
+O,Lions Gate Entertainment Corporation, R6,10/1/2017,20
+O,Nexa Resources S.A., I8,1/18/2014,13
+O,Regions Financial Corporation, N4,1/22/2001,15
+O,Clearwater Paper Corporation, C7,4/18/2001,27
+O,Hexcel Corporation, C4,10/5/2000,5
+O,Nuveen High Income 2020 Target Term Fund, T6,7/23/2005,23
+O,KKR & Co. Inc., I2,6/24/2009,6
+O,DTE Energy Company, S5,10/3/2009,4
+O,Acco Brands Corporation, Z4,1/20/2010,18
+O,CPFL Energia S.A., H4,3/23/2004,7
+O,DTE Energy Company, H2,5/1/2017,8
+O,Arbor Realty Trust, X4,9/21/2016,2
+O,Federal Agricultural Mortgage Corporation, G0,12/4/2004,22
+O,Lehman ABS Corporation, T2,7/22/2001,29
+O,Prospect Capital Corporation, T9,11/23/2006,2
+O,Cincinnati Bell Inc, T6,10/12/2015,9
+O,Atlantic Power Corporation, S3,6/11/2012,12
+O,Biglari Holdings Inc., H3,4/2/2017,25
+O,Nuveen California Quality Municipal Income Fund, K6,6/19/2000,9
+O,Nevro Corp., D8,5/5/2010,13
+O,Vista Outdoor Inc., C6,7/9/2010,24
+O,Kennametal Inc., G8,7/7/2014,23
+O,Aircastle Limited, L5,12/28/2017,6
+O,Annaly Capital Management Inc, Q5,2/2/2007,18
+O,AT&T Inc., W1,6/11/2017,29
+O,Retail Value Inc., B3,10/22/2016,4
+O,LendingClub Corporation, G7,1/21/2012,18
+O,Gabelli Global Small and Mid Cap Value Trust (The), C2,4/13/2005,3
+O,Invitae Corporation, U7,4/22/2008,24
+O,Eaton Vance Tax-Advantage Global Dividend Opp, S1,8/20/2006,15
+O,Madison Covered Call & Equity Strategy Fund, J6,10/27/2017,19
+O,Edwards Lifesciences Corporation, C0,3/17/2006,23
+O,Halcon Resources Corporation, Y7,6/19/2018,22
+O,GrubHub Inc., R9,2/16/2013,5
+O,Moog Inc., X5,6/19/2018,14
+O,Noah Holdings Ltd., Z6,3/12/2015,21
+O,Assured Guaranty Ltd., Q0,7/8/2006,3
+O,Medley Capital Corporation, R3,8/9/2015,16
+O,Pimco Corporate & Income Opportunity Fund, V9,12/19/2015,23
+O,Qwest Corporation, M6,12/3/2014,10
+O,Washington Prime Group Inc., W1,4/14/2013,18
+O,Axalta Coating Systems Ltd., K7,12/12/2010,3
+O,Eclipse Resources Corporation, S6,10/22/2008,10
+O,Blackrock Muni New York Intermediate Duration Fund Inc, U0,10/26/2016,6
+O,Azul S.A., K9,5/18/2018,3
+O,General Motors Company, B5,7/28/2000,27
+O,Materion Corporation, R1,2/22/2006,19
+O,Capital One Financial Corporation, Q9,1/16/2016,15
+O,John Hancock Investors Trust, Q1,11/19/2005,17
+O,Associated Banc-Corp, E0,2/5/2002,14
+O,Ethan Allen Interiors Inc., O4,9/24/2010,11
+O,Lear Corporation, I7,11/27/2015,5
+O,Pacific Drilling S.A., B5,2/20/2007,15
+O,Alliance World Dollar Government Fund II, D1,2/19/2018,2
+O,Clipper Realty Inc., H7,9/6/2002,18
+O,Extra Space Storage Inc, D1,5/22/2002,8
+O,Nuveen All Cap Energy MLP Opportunities Fund, N7,3/20/2009,27
+O,Megalith Financial Acquisition Corp., D0,3/18/2002,17
+O,PIMCO California Municipal Income Fund III, F9,7/18/2000,28
+O,Brookfield Renewable Partners L.P., S4,8/8/2015,22
+O,Spartan Energy Acquisition Corp, X4,12/28/2011,4
+O,Amira Nature Foods Ltd, E3,1/4/2000,21
+O,Curtiss-Wright Corporation, E6,4/2/2014,19
+O,First Trust MLP and Energy Income Fund, Z8,5/24/2018,8
+O,TIM Participacoes S.A., V7,1/27/2005,2
+O,ASGN Incorporated, Y3,12/23/2010,20
+O,Restaurant Brands International Inc., D6,10/4/2017,25
+O,Duff & Phelps Select MLP and Midstream Energy Fund, K3,6/23/2006,2
+O,Panhandle Royalty Company, F7,7/28/2004,28
+O,Heico Corporation, U7,5/25/2002,6
+O,Western Asset Municipal Defined Opportunity Trust Inc, C5,1/2/2003,5
+O,NexPoint Strategic Opportunities Fund, K6,12/19/2000,13
+O,GS Acquisition Holdings Corp., W2,9/14/2003,8
+O,LAIX Inc., K2,9/3/2002,30
+O,Adient plc, I0,10/23/2006,16
+O,Teekay Corporation, I6,12/3/2000,1
+O,Pacific Coast Oil Trust, L5,9/13/2011,4
+O,Brookfield Real Assets Income Fund Inc., I2,4/22/2014,1
+O,Medley Capital Corporation, B7,12/4/2007,14
+O,Nuven Mortgage Opportunity Term Fund 2, Q3,12/21/2017,28
+O,Acco Brands Corporation, G0,1/25/2015,6
+O,Wayfair Inc., N2,5/15/2001,6
+O,Astrazeneca PLC, G2,12/28/2015,15
+O,SITE Centers Corp., M5,11/27/2003,14
+O,E.I. du Pont de Nemours and Company, H0,1/23/2002,11
+O,Vistra Energy Corp., F2,12/8/2017,12
+O,Apollo Investment Corporation, N8,11/15/2010,14
+O,Smart, O5,9/18/2011,11
+O,Compass Diversified Holdings, W2,7/23/2005,17
+O,BBX Capital Corporation, L6,7/5/2010,15
+O,GP Strategies Corporation, X3,4/20/2002,3
+O,Verizon Communications Inc., F5,1/2/2005,1
+O,ClearBridge Energy Midstream Opportunity Fund Inc., L3,5/9/2007,21
+O,Cleveland-Cliffs Inc., E8,6/26/2004,28
+O,Intercontinental Hotels Group, D6,7/4/2004,20
+O,Nam Tai Property Inc., Y8,1/17/2018,3
+O,Accenture plc, C8,4/4/2007,15
+O,GS Acquisition Holdings Corp., W5,7/11/2000,17
+O,Allergan plc., C6,8/1/2003,28
+O,Southern California Edison Company, T0,3/6/2001,26
+O,Constellium N.V., F0,3/8/2005,21
+O,FS KKR Capital Corp., N8,2/5/2001,28
+O,AllianceBernstein Holding L.P., S5,7/10/2002,20
+O,Teekay LNG Partners L.P., B4,11/12/2008,23
+O,Chesapeake Energy Corporation, I8,8/25/2002,7
+O,Aphria Inc., G4,4/23/2006,27
+O,Urstadt Biddle Properties Inc., Q9,9/13/2005,30
+O,CIT Group Inc (DEL), F4,8/22/2015,18
+O,Social Capital Hedosophia Holdings Corp., J2,8/24/2009,28
+O,Regions Financial Corporation, R1,9/20/2012,16
+O,PLDT Inc., I2,11/25/2018,7
+O,CoreSite Realty Corporation, I8,4/2/2004,6
+O,CMS Energy Corporation, N9,8/4/2014,26
+O,Zoetis Inc., Z5,5/14/2004,29
+O,Stifel Financial Corporation, Q3,7/25/2012,25
+O,Mesabi Trust, I0,11/10/2000,15
+O,New Frontier Corporation, V9,12/25/2013,1
+O,Bristow Group Inc, H4,7/22/2013,2
+O,Teradata Corporation, N0,8/14/2001,16
+O,Apartment Investment and Management Company, V0,10/5/2007,11
+O,CTS Corporation, O0,11/15/2015,3
+O,Leo Holdings Corp., K4,2/17/2004,8
+O,Enbridge Inc, Z8,8/23/2001,5
+O,Scudder Strategic Municiple Income Trust, L5,8/12/2017,21
+O,Voya Emerging Markets High Income Dividend Equity Fund, P4,11/10/2015,24
+O,Lazard Global Total Return and Income Fund, U1,1/20/2006,6
+O,Antero Midstream Partners LP, A3,2/20/2014,15
+O,Danaher Corporation, K7,10/2/2008,21
+O,Fortuna Silver Mines Inc., A3,1/26/2011,26
+O,Brookfield Real Assets Income Fund Inc., Z7,5/10/2004,8
+O,Raytheon Company, O0,9/14/2010,25
+O,MSA Safety Incorporporated, S9,6/18/2004,4
+O,Welltower Inc., R0,9/19/2007,16
+O,Astrazeneca PLC, X6,4/28/2003,30
+O,DCP Midstream LP, G8,10/23/2000,2
+O,WildHorse Resource Development Corporation, Z9,1/2/2003,9
+O,Nuveen New Jersey Quality Municipal Income Fund, O5,3/26/2002,15
+O,Public Storage, Q0,8/17/2013,1
+O,Realogy Holdings Corp., A2,5/17/2013,23
+O,NexPoint Strategic Opportunities Fund, H6,10/22/2008,2
+O,Pinnacle West Capital Corporation, D2,9/16/2000,21
+O,Kimco Realty Corporation, H5,7/5/2012,21
+O,CVR Energy Inc., R0,5/25/2007,19
+O,BlackRock New York Investment Quality Municipal Trust Inc. (Th, T1,8/26/2017,26
+O,PIMCO Dynamic Income Fund, I6,3/2/2002,16
+O,Griffon Corporation, Y4,4/21/2016,12
+O,Bank of America Corporation, K3,5/2/2017,21
+O,Renesola Ltd., A7,1/17/2012,9
+O,Gabelli Multi-Media Trust Inc. (The), G8,6/24/2011,23
+O,Maxar Technologies Inc., V3,6/25/2016,11
+O,Mosaic Acquisition Corp., S4,9/28/2009,1
+O,Two Harbors Investments Corp, Z2,4/22/2010,25
+O,Compass Diversified Holdings, M6,7/2/2015,24
+O,Global Cord Blood Corporation, P1,2/23/2016,4
+O,Acadia Realty Trust, E9,5/21/2006,15
+O,Molson Coors Brewing  Company, G5,10/26/2004,15
+O,Seaspan Corporation, A6,5/26/2008,30
+O,Jacobs Engineering Group Inc., J8,11/10/2002,18
+O,Marcus Corporation (The), N3,8/10/2012,9
+O,State Street Corporation, M7,3/24/2017,6
+O,OUTFRONT Media Inc., J6,10/19/2013,11
+O,DTE Energy Company, P8,3/8/2018,14
+O,Blackrock MuniYield Investment QualityFund, V9,4/5/2002,5
+O,Entergy Texas Inc, E6,3/2/2017,11
+O,Teck Resources Ltd, D3,7/16/2002,13
+O,Teradata Corporation, A3,5/9/2010,18
+O,Brookfield Renewable Partners L.P., O4,8/6/2018,15
+O,CoreSite Realty Corporation, D4,8/18/2013,20
+O,Nuveen Select Tax Free Income Portfolio, A9,1/11/2000,28
+O,Belmond Ltd., Y1,11/13/2010,11
+O,Eaton Vance Risk-Managed Diversified Equity Income Fund, D1,5/3/2014,11
+O,Crescent Point Energy Corporation, E0,4/20/2012,19
+O,Unilever NV, P1,10/1/2011,16
+O,Nuveen Maryland Quality Municipal Income Fund, S8,10/8/2018,30
+O,Xerox Corporation, O1,2/6/2002,6
+O,Urstadt Biddle Properties Inc., T0,7/1/2015,3
+O,Cushing Energy Income Fund (The), O4,7/26/2010,7
+O,Diebold Nixdorf Incorporated, K6,7/26/2008,25
+O,Voya Global Advantage and Premium Opportunity Fund, J0,5/11/2005,13
+O,Chesapeake Energy Corporation, P8,6/7/2015,13
+O,Tekla World Healthcare Fund, G6,5/24/2004,11
+O,Exantas Capital Corp., H3,2/11/2012,19
+O,Geopark Ltd, K8,4/16/2018,28
+O,Cushman & Wakefield plc, G5,5/1/2008,4
+O,Saratoga Investment Corp, T5,10/1/2011,23
+O,MOGU Inc., B0,2/21/2010,9
+O,Blackstone GSO Senior Floating Rate Term Fund, E2,6/23/2000,29
+O,Invesco California Value Municipal Income Trust, B5,5/26/2017,16
+O,Invesco Quality Municipal Income Trust, G9,11/11/2008,26
+O,S&P Global Inc., S2,11/9/2005,19
+O,Banco De Chile, H5,2/7/2016,15
+O,Dynagas LNG Partners LP, C0,7/17/2018,17
+O,Ready Capital Corporation, W6,4/10/2014,25
+O,OneSmart International Education Group Limited, A6,5/21/2009,24
+O,US Foods Holding Corp., E4,4/25/2005,3
+O,Air Lease Corporation, N2,7/17/2006,23
+O,Bellatrix Exploration Ltd, S8,2/4/2012,14
+O,Nomad Foods Limited, L3,10/13/2001,17
+O,Pitney Bowes Inc., Z7,2/27/2016,15
+O,Braemar Hotels & Resorts Inc., I6,3/24/2015,27
+O,Lions Gate Entertainment Corporation, A8,4/11/2017,3
+O,Acco Brands Corporation, E1,12/10/2002,19
+O,Ready Capital Corporation, I6,5/4/2004,28
+O,Pebblebrook Hotel Trust, C1,2/20/2010,6
+O,Eaton Vance Risk-Managed Diversified Equity Income Fund, H7,1/9/2006,4
+O,Pebblebrook Hotel Trust, H7,12/25/2005,12
+O,Peabody Energy Corporation, N4,4/24/2010,8
+O,Nuveen Enhanced Municipal Value Fund, Q6,3/3/2017,4
+O,Flaherty & Crumrine Preferred Income Fund Incorporated, I7,7/7/2004,7
+O,TriplePoint Venture Growth BDC Corp., A0,3/26/2006,3
+O,Anworth Mortgage Asset  Corporation, L4,7/17/2005,4
+O,Antero Midstream GP LP, G8,12/9/2013,28
+O,Berkshire Hathaway Inc., Z9,11/14/2011,15
+O,Duff & Phelps Global Utility Income Fund Inc., A1,1/7/2004,5
+O,TransAlta Corporation, F1,10/23/2017,1
+O,Diamondrock Hospitality Company, A6,10/6/2015,5
+O,Hornbeck Offshore Services, G4,3/14/2010,16
+O,Flaherty & Crumrine Preferred Securities Income Fund Inc, D2,7/28/2012,13
+O,M&T Bank Corporation, A5,2/19/2005,3
+O,Stryker Corporation, X9,8/28/2002,25
+O,Suzano Papel e Celulose S.A., S9,5/15/2002,12
+O,BlackRock Resources, C5,9/14/2009,1
+O,Buenaventura Mining Company Inc., B8,4/24/2003,8
+O,Standex International Corporation, K4,4/20/2008,27
+O,Nuveen North Carolina Quality Municipal Income Fd, Q8,12/2/2009,19
+O,J P Morgan Chase & Co, R3,3/7/2007,9
+O,Mercury General Corporation, K8,12/25/2000,8
+O,Arbor Realty Trust, G0,5/17/2002,11
+O,China Unicom (Hong Kong) Ltd, X9,11/10/2008,17
+O,Nuveen Select Tax Free Income Portfolio II, H6,1/8/2018,7
+O,BanColombia S.A., J3,2/10/2011,26
+O,Granite Construction Incorporated, U9,2/19/2018,21
+O,Putnam Master Intermediate Income Trust, Q8,4/14/2012,18
+O,Medley Capital Corporation, M1,8/26/2000,29
+O,SandRidge Permian Trust, S1,3/24/2004,2
+O,Renren Inc., X7,1/20/2009,8
+O,Nuveen Credit Strategies Income Fund, U0,12/12/2004,19
+O,Fly Leasing Limited, O9,5/9/2002,5
+O,ITT Inc., F9,10/20/2008,21
+O,Moog Inc., F5,6/11/2004,20
+O,BB&T Corporation, G4,6/17/2016,7
+O,Western Asset Bond Fund, F4,1/3/2012,26
+O,RenaissanceRe Holdings Ltd., R5,4/13/2011,2
+O,Torchmark Corporation, E6,4/11/2005,27
+O,Crescent Point Energy Corporation, Q3,8/16/2017,6
+O,Wells Fargo & Company, N8,3/24/2012,12
+O,Public Service Enterprise Group Incorporated, L7,7/19/2001,27
+O,Steel Partners Holdings LP, S0,12/11/2013,16
+O,AllianzGI Equity & Convertible Income Fund, W9,12/16/2008,23
+O,BlackRock New York Municipal Income Trust II, M0,5/19/2016,8
+O,Drive Shack Inc., Q4,9/18/2006,5
+O,Nuveen California AMT-Free Quality Municipal Income Fund, B2,1/21/2013,12
+O,John Hancock Tax-Advantaged Global Shareholder Yield Fund, R7,7/8/2002,8
+O,Yirendai Ltd., A0,2/14/2006,2
+O,Markel Corporation, A3,2/24/2001,18
+O,Magnolia Oil & Gas Corporation, D0,1/27/2017,10
+O,Yamana Gold Inc., F3,9/6/2002,19
+O,Pembina Pipeline Corp., P6,12/26/2002,11
+O,RPM International Inc., Q0,9/22/2015,7
+O,Renesola Ltd., A5,10/28/2001,6
+O,Intercontinental Exchange Inc., E1,8/25/2014,21
+O,China Eastern Airlines Corporation Ltd., I4,12/21/2009,13
+O,Albany International Corporation, P9,8/17/2012,1
+O,TopBuild Corp., B2,1/7/2012,21
+O,UBS AG, I7,7/19/2018,13
+O,Flaherty & Crumrine Preferred Income Opportunity Fund Inc, Y4,7/25/2016,11
+O,Oi S.A., O3,2/26/2004,26
+O,Bank Of New York Mellon Corporation (The), V3,4/9/2013,19
+O,Denbury Resources Inc., V6,8/23/2018,11
+O,Autohome Inc., L5,7/14/2005,10
+O,Pitney Bowes Inc., T0,7/18/2002,24
+O,China Distance Education Holdings Limited, N7,6/23/2013,30
+O,GasLog LP., I7,1/8/2006,21
+O,ABM Industries Incorporated, Z5,4/25/2002,10
+O,Snap Inc., N2,10/19/2015,4
+O,Macy&#39;s Inc, D0,2/22/2015,22
+O,Dean Foods Company, W3,9/1/2004,27
+O,Agree Realty Corporation, C0,7/19/2010,25
+O,S&P Global Inc., E5,9/1/2012,3
+O,Avaya Holdings Corp., J8,11/28/2016,25
+O,Vista Outdoor Inc., Y1,9/12/2018,12
+O,Chimera Investment Corporation, Y8,10/7/2009,29
+O,Black Hills Corporation, I9,1/28/2007,3
+O,Southwest Airlines Company, D7,9/27/2016,2
+O,SITE Centers Corp., N4,12/6/2013,6
+O,Royal Bank Of Canada, A3,2/10/2017,8
+O,Berkshire Hathaway Inc., V7,12/25/2008,15
+O,Mechel PAO, M5,6/27/2014,8
+O,Cabot Corporation, Z6,7/24/2013,3
+O,Centrais Electricas Brasileiras S.A.- Eletrobras, D2,2/27/2001,15
+O,The GDL Fund, T7,2/20/2004,28
+O,British American Tobacco p.l.c., C8,8/26/2017,8
+O,FIRST REPUBLIC BANK, F3,9/2/2009,30
+O,Voya International High Dividend Equity Income Fund, N7,12/19/2007,7
+O,Waters Corporation, R3,9/7/2008,1
+O,Cigna Corporation, T1,3/2/2016,26
+O,Orange, Y2,2/8/2000,14
+O,CooTek (Cayman) Inc., U0,2/2/2005,18
+O,Southern California Edison Company, Y0,5/13/2012,5
+O,Tronox Limited, F4,2/2/2007,9
+O,John Hancock Income Securities Trust, A8,5/28/2006,14
+O,Buenaventura Mining Company Inc., C1,12/26/2002,17
+O,RenaissanceRe Holdings Ltd., M1,9/27/2017,22
+O,Vornado Realty Trust, L8,12/13/2014,13
+O,Delphi Technologies PLC, B8,4/21/2011,30
+O,Walmart Inc., G7,1/10/2009,23
+O,Materion Corporation, Q3,10/5/2001,5
+O,Crown Castle International Corporation, A3,10/28/2005,15
+O,American Equity Investment Life Holding Company, C0,7/18/2016,1
+O,LATAM Airlines Group S.A., K5,12/1/2014,20
+O,Cincinnati Bell Inc, E4,8/9/2008,12
+O,Hecla Mining Company, W9,4/21/2015,21
+O,One Madison Corporation, T5,9/18/2013,27
+O,Chesapeake Lodging Trust, W1,6/23/2001,2
+O,Churchill Capital Corp, B5,11/19/2004,27
+O,PolyOne Corporation, G6,12/12/2015,8
+O,Qwest Corporation, I9,9/7/2000,19
+O,MGM Resorts International, Z2,5/7/2003,3
+O,EnPro Industries, K8,7/11/2011,27
+O,Molson Coors Brewing  Company, B0,3/27/2010,6
+O,Cabot Oil & Gas Corporation, B9,5/13/2008,22
+O,AquaVenture Holdings Limited, Q1,4/7/2000,27
+O,Diamondrock Hospitality Company, C3,1/12/2002,17
+O,Ternium S.A., X5,12/19/2010,6
+O,Aegon NV, R7,2/5/2018,6
+O,Welltower Inc., P5,8/28/2009,3
+O,Shaw Communications Inc., F7,12/20/2007,18
+O,Chatham Lodging Trust (REIT), G5,6/13/2017,16
+O,Seaspan Corporation, F6,5/9/2004,5
+O,Braemar Hotels & Resorts Inc., A9,7/13/2012,25
+O,SEACOR Marine Holdings Inc., V6,9/28/2012,23
+O,Nuveen Municipal High Income Opportunity Fund, R5,6/20/2005,22
+O,Welltower Inc., U9,9/5/2002,30
+O,McDonald&#39;s Corporation, E4,7/25/2018,7
+O,National Steel Company, S4,9/4/2013,29
+O,UNIVERSAL INSURANCE HOLDINGS INC, R3,1/11/2015,14
+O,AECOM, T1,2/5/2010,5
+O,Teekay Offshore Partners L.P., U7,2/2/2004,5
+O,Morgan Stanley, E9,6/26/2006,28
+O,New York Times Company (The), V7,1/10/2002,22
+O,Terreno Realty Corporation, A7,2/27/2002,8
+O,Wells Fargo & Company, W1,3/15/2009,4
+O,Hersha Hospitality Trust, B1,5/25/2003,30
+O,Western Asset Bond Fund, T4,12/21/2014,14
+O,The Charles Schwab Corporation, Z0,8/25/2005,13
+O,Sensata Technologies Holding plc, F5,10/23/2000,28
+O,Invacare Corporation, N6,12/13/2008,5
+O,Mosaic Acquisition Corp., W1,3/9/2016,29
+O,Flaherty & Crumrine Total Return Fund Inc, F0,1/20/2002,26
+O,Nordic American Offshore Ltd., M2,10/21/2009,14
+O,Northrop Grumman Corporation, G7,5/25/2012,5
+O,Teck Resources Ltd, A1,1/7/2015,4
+O,CPFL Energia S.A., A9,12/17/2016,23
+O,Healthcare Realty Trust Incorporated, O6,3/6/2002,18
+O,Coty Inc., K4,1/13/2002,10
+O,Saratoga Investment Corp, Y0,11/6/2005,3
+O,Aspen Insurance Holdings Limited, O3,3/21/2015,27
+O,Ball Corporation, J0,3/1/2011,19
+O,Compass Diversified Holdings, V9,8/14/2005,27
+O,TPG Pace Holdings Corp., I3,9/28/2015,10
+O,Enbridge Inc, S4,10/28/2016,9
+O,TELUS Corporation, G2,1/24/2008,28
+O,Nuveen High Income November 2021 Target Term Fund, Q9,12/4/2015,26
+O,Eagle Point Credit Company Inc., B7,5/24/2016,1
+O,Emerson Electric Company, Y9,7/20/2010,22
+O,Pitney Bowes Inc., Y4,6/17/2006,25
+O,Nuveen Arizona Quality Municipal Income Fund, K9,3/16/2006,10
+O,Diana Shipping inc., B7,8/22/2010,3
+O,DRDGOLD Limited, Q3,6/6/2001,28
+O,Pennsylvania Real Estate Investment Trust, A1,11/25/2006,21
+O,Nuveen Insured New York Select Tax-Free Income Portfolio, P6,5/28/2012,5
+O,Prospect Capital Corporation, K7,12/17/2010,17
+O,Belden Inc, K1,9/12/2015,27
+O,Masco Corporation, S8,2/21/2013,14
+O,Emerge Energy Services LP, X4,5/11/2017,22
+O,DowDuPont Inc., M1,12/20/2013,1
+O,LyondellBasell Industries NV, Y7,9/15/2014,18
+O,Minerals Technologies Inc., Z3,6/4/2005,22
+O,Packaging Corporation of America, U7,1/6/2000,2
+O,W.R. Grace & Co., C4,4/27/2011,7
+O,Prospect Capital Corporation, X3,4/25/2003,29
+O,Deluxe Corporation, Q9,8/21/2007,27
+O,Kemet Corporation, Y6,1/25/2000,14
+O,Chesapeake Energy Corporation, S8,9/6/2005,6
+O,Pampa Energia S.A., X0,3/23/2006,28
+O,MFS Municipal Income Trust, V2,11/19/2006,21
+O,Megalith Financial Acquisition Corp., O3,8/21/2005,9
+O,Invesco High Income 2024 Target Term Fund, L7,2/4/2016,17
+O,Kellogg Company, Q0,7/10/2002,5
+O,Commercial Metals Company, H5,3/1/2005,27
+O,ICICI Bank Limited, P6,2/5/2001,24
+O,Systemax Inc., A8,10/21/2000,6
+O,Embotelladora Andina S.A., N6,2/10/2016,11
+O,Ocwen Financial Corporation, W6,3/10/2016,5
+O,BlackRock Maryland Municipal Bond Trust, Q3,11/20/2015,4
+O,First Trust High Income Long Short Fund, D6,7/6/2017,8
+O,Apollo Investment Corporation, A7,11/17/2014,30
+O,OneSmart International Education Group Limited, O9,3/1/2009,20
+O,Hamilton Beach Brands Holding Company, N9,5/23/2013,9
+O,TCF Financial Corporation, B1,7/10/2003,22
+O,Smart, F2,2/25/2011,19
+O,Aegon NV, V6,9/2/2003,13
+O,Bank of Hawaii Corporation, D5,11/22/2016,1
+O,Ally Financial Inc., J3,12/1/2014,16
+O,Assured Guaranty Ltd., W5,2/8/2003,10
+O,Minerals Technologies Inc., A0,9/25/2003,2
+O,EPR Properties, B8,10/4/2012,6
+O,Pioneer Natural Resources Company, P3,1/28/2010,7
+O,Thomson Reuters Corp, S7,6/22/2018,20
+O,Mallinckrodt plc, M5,3/10/2012,18
+O,Tencent Music Entertainment Group, P8,12/1/2016,20
+O,Dollar General Corporation, A1,12/13/2001,21
+O,Exantas Capital Corp., H5,12/16/2016,29
+O,Spartan Energy Acquisition Corp, P8,9/14/2018,10
+O,Chesapeake Energy Corporation, I1,7/16/2005,11
+O,Morgan Stanley, T3,12/12/2003,27
+O,Timken Company (The), U4,3/23/2014,29
+O,Duke Energy Corporation, S9,10/9/2007,22
+O,KNOT Offshore Partners LP, R3,9/26/2017,14
+O,First Horizon National Corporation, D1,10/24/2007,1
+O,First Trust Dynamic Europe Equity Income Fund, M0,8/13/2017,22
+O,J P Morgan Chase & Co, G8,4/19/2008,14
+O,Nuveen Missouri Quality Municipal Income Fund, H2,7/6/2000,17
+O,Cameco Corporation, F0,8/17/2006,21
+O,Mesabi Trust, L2,4/13/2012,29
+O,CRH PLC, I7,6/3/2017,12
+O,Brunswick Corporation, W5,3/25/2013,23
+O,Grupo Televisa S.A., M8,1/10/2005,5
+O,Taro Pharmaceutical Industries Ltd., A6,10/5/2007,17
+O,Urban Edge Properties, T3,7/22/2004,27
+O,Public Storage, H4,11/15/2009,26
+O,Exantas Capital Corp., Q5,2/13/2005,15
+O,Bank of America Corporation, D6,2/18/2016,16
+O,Exxon Mobil Corporation, H2,8/16/2000,16
+O,TechnipFMC plc, G9,12/3/2005,7
+O,Scudder Municiple Income Trust, Q1,10/7/2002,5
+O,Liberty Oilfield Services Inc., F9,7/24/2004,17
+O,Blackrock Florida Municipal 2020 Term Trust, I8,5/14/2017,5
+O,Public Storage, F4,10/27/2015,21
+O,Dynagas LNG Partners LP, Z0,1/12/2010,6
+O,Nuveen Massachusetts Municipal Income Fund, S2,1/13/2012,2
+O,Sprint Corporation, S2,2/21/2008,16
+O,Masco Corporation, T4,12/19/2002,1
+O,Constellium N.V., R1,8/25/2018,1
+O,RenaissanceRe Holdings Ltd., D8,11/6/2000,13
+O,DoubleLine Income Solutions Fund, G5,1/27/2017,7
+O,Gabelli Utility Trust (The), C7,8/5/2013,6
+O,SandRidge Permian Trust, C9,5/28/2009,25
+O,Embotelladora Andina S.A., L9,12/24/2007,21
+O,HDFC Bank Limited, E0,5/21/2005,20
+O,Danaher Corporation, P7,6/22/2007,2
+O,Eastman Chemical Company, H2,6/12/2011,17
+O,Kimco Realty Corporation, T5,10/8/2001,14
+O,Howard Hughes Corporation (The), Z3,5/17/2003,21
+O,Navios Maritime Holdings Inc., B9,9/4/2000,8
+O,Teledyne Technologies Incorporated, V2,10/2/2003,16
+O,KeyCorp, G0,12/24/2002,22
+O,Pioneer Energy Services Corp., V3,2/17/2004,18
+O,StoneMor Partners L.P., Y3,11/6/2001,7
+O,Precision Drilling Corporation, L8,10/24/2015,18
+O,SEACOR Marine Holdings Inc., I7,11/27/2011,24
+O,Spotify Technology S.A., L6,7/5/2017,22
+O,CAE Inc, J7,2/15/2007,9
+O,Glaukos Corporation, J2,10/16/2015,24
+O,Seaspan Corporation, L7,4/21/2015,22
+O,Lannett Co Inc, L5,4/12/2001,21
+O,Annaly Capital Management Inc, H6,9/25/2012,19
+O,Yamana Gold Inc., O4,9/19/2017,15
+O,Restaurant Brands International Inc., W9,9/25/2012,30
+O,Mesabi Trust, T7,7/16/2009,18
+O,KT Corporation, I1,6/16/2011,5
+O,Cheetah Mobile Inc., A7,1/25/2012,19
+O,Whirlpool Corporation, A7,12/15/2014,16
+O,TransAlta Corporation, A7,8/18/2018,12
+O,Colfax Corporation, U9,1/10/2014,9
+O,GasLog Partners LP, U2,8/21/2004,13
+O,Sterling Bancorp, Q1,5/28/2012,7
+O,New Home Company Inc. (The), I6,3/19/2010,15
+O,Vulcan Materials Company, J0,10/28/2004,30
+O,Aquantia Corp., H8,7/6/2001,29
+O,Bellatrix Exploration Ltd, F8,8/13/2009,19
+O,Alcoa Corporation, U5,9/10/2005,11
+O,General Motors Company, K8,5/7/2017,2
+O,China Southern Airlines Company Limited, R0,2/3/2010,10
+O,Halliburton Company, B2,11/26/2001,10
+O,Capitol Investment Corp. IV, S7,4/21/2011,6
+O,Tsakos Energy Navigation Ltd, N5,11/17/2003,26
+O,American Homes 4 Rent, A3,7/9/2010,4
+O,Panhandle Royalty Company, D1,1/27/2009,1
+O,Norbord Inc., Y9,10/17/2018,16
+O,INVESCO MORTGAGE CAPITAL INC, R1,3/16/2011,22
+O,Nexa Resources S.A., B9,2/16/2009,15
+O,FedEx Corporation, P7,1/17/2012,24
+O,Phillips 66, Q6,6/21/2013,16
+O,DTE Energy Company, S1,4/10/2004,18
+O,Antero Midstream Partners LP, W4,8/25/2003,13
+O,Public Service Enterprise Group Incorporated, A7,5/26/2004,12
+O,BanColombia S.A., Q4,2/5/2009,11
+O,Flaherty & Crumrine Preferred Income Opportunity Fund Inc, F5,12/9/2005,6
+O,Chatham Lodging Trust (REIT), F1,6/5/2017,7
+O,Vornado Realty Trust, D5,10/27/2001,25
+O,Quorum Health Corporation, E6,9/13/2008,2
+O,Celanese Corporation, F5,10/5/2018,30
+O,Acushnet Holdings Corp., A2,1/13/2002,28
+O,Enerplus Corporation, M7,12/23/2017,28
+O,Sabine Royalty Trust, F1,6/8/2016,14
+O,New Frontier Corporation, S1,1/22/2002,13
+O,Pennsylvania Real Estate Investment Trust, G8,4/27/2000,27
+O,CTS Corporation, P3,10/8/2011,12
+O,MFS Government Markets Income Trust, Q6,6/25/2009,20
+O,MidSouth Bancorp, B6,2/14/2002,27
+O,Targa Resources Partners LP, H0,4/11/2016,21
+O,Hi-Crush Partners LP, C7,4/8/2006,16
+O,Nuveen AMT-Free Quality Municipal Income Fund, M7,3/2/2015,23
+O,Deckers Outdoor Corporation, Q6,5/11/2012,30
+O,Grupo Supervielle S.A., F1,10/20/2007,6
+O,Cummins Inc., T7,3/19/2004,27
+O,ResMed Inc., W5,12/7/2001,26
+O,Wells Fargo & Company, A9,1/19/2010,9
+O,Ferrari N.V., C9,7/2/2010,30
+O,Voya International High Dividend Equity Income Fund, W3,3/10/2013,9
+O,Brown Forman Corporation, B5,5/11/2008,10
+O,Arbor Realty Trust, D6,9/2/2005,10
+O,BlackRock Virginia Municipal Bond Trust, G1,9/9/2008,20
+O,Eclipse Resources Corporation, G8,9/22/2007,9
+O,Nuveen Tax-Advantaged Dividend Growth Fund, Q2,5/22/2009,12
+O,Molson Coors Brewing  Company, S2,7/5/2005,29
+O,DCP Midstream LP, M5,4/7/2016,7
+O,Meritage Corporation, J0,11/14/2011,7
+O,AU Optronics Corp, I5,12/10/2004,6
+O,Atkore International Group Inc., K2,12/1/2018,25
+O,Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2, W0,12/12/2011,20
+O,Kayne Anderson MLP/Midstream Investment Company, T1,4/25/2004,15
+O,K12 Inc, A3,7/6/2001,22
+O,Bank of Nova Scotia (The), W1,7/24/2007,7
+O,Tutor Perini Corporation, F5,10/14/2014,14
+O,ICICI Bank Limited, F6,5/18/2009,11
+O,Cott Corporation, H0,12/21/2016,24
+O,Cohen & Steers Quality Income Realty Fund Inc, J7,1/27/2011,30
+O,Whiting Petroleum Corporation, M6,12/23/2013,30
+O,E.I. du Pont de Nemours and Company, T1,8/20/2018,1
+O,Banco Bradesco Sa, H0,4/11/2017,20
+O,Public Storage, F0,5/26/2005,19
+O,Credicorp Ltd., P1,4/18/2014,19
+O,Cross Timbers Royalty Trust, A1,8/26/2016,10
+O,BlackRock Science and Technology Trust, F3,11/11/2016,30
+O,Vistra Energy Corp., G7,12/2/2001,24
+O,Shaw Communications Inc., O6,11/23/2002,30
+O,Cooper-Standard Holdings Inc., H0,6/22/2012,27
+O,Unilever PLC, U9,2/9/2018,1
+O,China Life Insurance Company Limited, H1,3/21/2012,21
+O,National Storage Affiliates Trust, S0,12/4/2003,10
+O,Invesco California Value Municipal Income Trust, O4,5/20/2013,26
+O,EPR Properties, L3,2/26/2014,28
+O,Sociedad Quimica y Minera S.A., S4,2/24/2013,17
+O,Natural Resource Partners LP, P4,6/15/2009,27
+O,Sonoco Products Company, S1,5/16/2008,13
+O,GlaxoSmithKline PLC, B9,8/14/2002,8
+O,DTE Energy Company, J9,7/27/2006,21
+O,Suzano Papel e Celulose S.A., O9,3/19/2004,13
+O,OFG Bancorp, G9,9/19/2004,22
+O,Cooper-Standard Holdings Inc., C7,9/16/2007,2
+O,TopBuild Corp., T1,8/21/2007,25
+O,Drive Shack Inc., H4,9/11/2016,3
+O,Nuveen Texas Quality Municipal Income Fund, K6,2/4/2012,3
+O,Arbor Realty Trust, Y5,3/16/2017,14
+O,Nuveen AMT-Free Municipal Value Fund, U4,1/25/2015,23
+O,Sempra Energy, I9,7/11/2009,18
+O,Blackrock Municipal 2020 Term Trust, R5,5/19/2011,2
+O,Allstate Corporation (The), H8,4/23/2010,27
+O,Howard Hughes Corporation (The), I1,12/23/2004,28
+O,Gabelli Multi-Media Trust Inc. (The), Y9,1/18/2015,5
+O,DCP Midstream LP, I0,3/19/2003,20
+O,Bristol-Myers Squibb Company, R4,8/11/2001,27
+O,Illinois Tool Works Inc., P1,3/13/2016,2
+O,J P Morgan Chase & Co, Q6,9/3/2007,30
+O,Ladder Capital Corp, D0,11/10/2005,20
+O,DTE Energy Company, V2,10/7/2006,21
+O,First Trust Intermediate Duration Preferred & Income Fund, U7,1/11/2006,12
+O,American Water Works, J0,8/5/2012,3
+O,DAQO New Energy Corp., L3,8/15/2010,28
+O,First Trust/Aberdeen Emerging Opportunity Fund, J7,5/5/2006,1
+O,Tennessee Valley Authority, E8,6/28/2013,9
+O,First Trust, V3,6/18/2014,25
+O,China Southern Airlines Company Limited, Q0,9/2/2014,19
+O,Enbridge Inc, C9,1/23/2003,19
+O,CMS Energy Corporation, Y8,10/16/2010,9
+O,Fortuna Silver Mines Inc., U4,3/1/2015,22
+O,KKR Income Opportunities Fund, K0,6/7/2000,16
+O,China Rapid Finance Limited, O9,10/27/2001,17
+O,Crawford & Company, G1,9/20/2015,22
+O,Canadian Imperial Bank of Commerce, M5,10/19/2013,12
+O,Public Storage, G5,9/28/2004,14
+O,Goldman Sachs MLP Energy Renaissance Fund, Y9,11/7/2004,25
+O,PIMCO New York Municipal Income Fund, Z1,2/2/2018,18
+O,Wheaton Precious Metals Corp., C8,5/16/2017,3
+O,Texas Pacific Land Trust, J6,4/22/2004,5
+O,Glaukos Corporation, S5,10/27/2017,24
+O,Marathon Petroleum Corporation, S2,5/13/2015,9
+O,Western Asset High Yield Defined Opportunity Fund Inc., T7,1/27/2005,21
+O,Mitsubishi UFJ Financial Group Inc, M2,9/17/2006,1
+O,MFS Municipal Income Trust, R0,3/28/2010,1
+O,Shinhan Financial Group Co Ltd, Y0,6/22/2018,18
+O,Ardagh Group S.A., Q1,10/27/2000,18
+O,China Eastern Airlines Corporation Ltd., S1,9/2/2010,6
+O,Blackstone / GSO Strategic Credit Fund, L4,9/25/2012,1
+O,Global Medical REIT Inc., Y3,6/25/2010,23
+O,Dean Foods Company, A4,7/24/2006,15
+O,Westrock Company, I5,9/2/2014,29
+O,Duke Energy Corporation, R2,11/27/2016,3
+O,American Homes 4 Rent, I7,5/23/2012,22
+O,U.S. Bancorp, H4,3/18/2003,19
+O,Dr. Reddy&#39;s Laboratories Ltd, T9,5/1/2013,10
+O,State Street Corporation, M7,5/7/2014,20
+O,Blackrock Health Sciences Trust, U6,12/7/2010,6
+O,GasLog LP., C6,3/1/2000,21
+O,National Retail Properties, F4,5/2/2003,30
+O,Nuveen Arizona Quality Municipal Income Fund, X0,4/13/2008,2
+O,Royal Bank Of Canada, E3,2/21/2014,4
+O,Petroleo Brasileiro S.A.- Petrobras, C7,6/1/2013,27
+O,Allergan plc., C0,10/22/2011,9
+O,Monmouth Real Estate Investment Corporation, U2,12/18/2002,8
+O,Christopher & Banks Corporation, O6,9/21/2001,16
+O,M&T Bank Corporation, L5,6/2/2014,18
+O,Euronav NV, E9,10/20/2004,19
+O,Schlumberger N.V., N7,7/14/2002,13
+O,Ready Capital Corporation, T7,8/22/2003,18
+O,Fortuna Silver Mines Inc., O6,3/27/2000,15
+O,Westlake Chemical Partners LP, Z6,3/23/2003,4
+O,Materion Corporation, D5,12/1/2003,12
+O,MFS Charter Income Trust, R8,3/20/2017,21
+O,Fresenius Medical Care Corporation, Z9,1/22/2011,4
+O,Apollo Senior Floating Rate Fund Inc., J9,5/10/2014,5
+O,PPlus Trust, R8,5/27/2014,8
+O,Verso Corporation, B2,2/1/2011,10
+O,Leaf Group Ltd., V5,5/10/2005,15
+O,Seaspan Corporation, I2,10/10/2006,9
+O,Hill-Rom Holdings Inc, V7,4/17/2014,19
+O,Capital One Financial Corporation, B9,2/28/2012,13
+O,Micro Focus Intl PLC, V2,7/14/2014,26
+O,Azure Power Global Limited, K8,11/9/2002,9
+O,North European Oil Royality Trust, B8,9/26/2012,10
+O,PVH Corp., S7,11/16/2000,13
+O,Euronav NV, E3,3/19/2004,11
+O,Deluxe Corporation, O4,2/25/2018,1
+O,Studio City International Holdings Limited, S6,4/14/2003,1
+O,Leo Holdings Corp., Q2,10/3/2010,24
+O,John Hancock Pfd Income Fund II, O9,6/13/2009,7
+O,Glatfelter, D8,12/16/2013,30
+O,American Vanguard Corporation, U2,6/1/2004,25
+O,FB Financial Corporation, F6,9/26/2017,21
+O,Novo Nordisk A/S, K2,10/2/2000,4
+O,Bank of Hawaii Corporation, M6,2/22/2009,11
+O,Nuveen Real Estate Fund, X7,12/23/2011,4
+O,Trinseo S.A., U8,6/21/2017,26
+O,Costamare Inc., L8,5/11/2004,1
+O,McKesson Corporation, O9,5/13/2011,24
+O,StoneMor Partners L.P., F0,9/25/2002,18
+O,Huami Corporation, W2,2/10/2015,28
+O,Lyon William Homes, T3,11/22/2009,13
+O,Zions Bancorporation N.A., Y8,5/11/2005,7
+O,Nokia Corporation, H3,5/18/2011,5
+O,Walt Disney Company (The), W0,3/6/2018,14
+O,Ready Capital Corporation, K7,1/5/2004,16
+O,Nuveen Credit Opportunities 2022 Target Term Fund, B3,4/6/2007,26
+O,Dell Technologies Inc., I9,9/17/2005,2
+O,Campbell Soup Company, T7,2/1/2015,5
+O,EPR Properties, D3,1/24/2000,16
+O,Nuveen Multi-Market Income Fund, M4,12/19/2004,1
+O,Actuant Corporation, I4,7/12/2015,4
+O,KT Corporation, S3,12/9/2008,26
+O,BlackRock Strategic Municipal Trust Inc. (The), F0,4/15/2011,2
+O,Americold Realty Trust, F9,6/5/2002,14
+O,Bank of America Corporation, V9,8/25/2010,1
+O,Anheuser-Busch Inbev SA, T8,5/9/2001,7
+O,Huami Corporation, V7,11/24/2006,24
+O,Nuveen New York Municipal Value Fund 2, U5,4/14/2003,2
+O,Verizon Communications Inc., U7,7/10/2003,23
+O,Genco Shipping & Trading Limited , Q5,10/6/2008,2
+O,Blackrock New York Municipal Bond Trust, F6,5/4/2010,29
+O,General Electric Company, A7,11/6/2007,10
+O,Global Partners LP, X8,11/7/2004,4
+O,Synovus Financial Corp., C5,6/19/2008,13
+O,Torchmark Corporation, K3,11/28/2007,6
+O,Boyd Gaming Corporation, I8,9/15/2010,16
+O,GasLog Partners LP, D9,7/21/2004,30
+O,GS Acquisition Holdings Corp., M9,9/4/2012,6
+O,Perspecta Inc., Y2,7/12/2012,19
+O,Oil-Dri Corporation Of America, O7,1/2/2005,18
+O,Gabelli Utility Trust (The), P1,10/26/2009,14
+O,Sparton Corporation, W9,9/4/2017,10
+O,Canopy Growth Corporation, H4,1/18/2010,18
+O,Physicians Realty Trust, O9,10/13/2016,24
+O,Celanese Corporation, J1,6/2/2011,19
+O,Diana Shipping inc., N1,1/8/2010,16
+O,General Motors Company, C7,1/27/2017,17
+O,Gabelli Utility Trust (The), C6,7/1/2016,20
+O,Tredegar Corporation, W0,8/21/2006,10
+O,Aegon NV, K2,10/11/2002,22
+O,Cross Timbers Royalty Trust, W0,6/9/2010,13
+O,Kimco Realty Corporation, D2,9/23/2004,8
+O,California Water  Service Group Holding, P0,10/13/2000,4
+O,Cleveland-Cliffs Inc., W1,4/4/2002,3
+O,Israel Chemicals Shs, D5,3/17/2010,2
+O,Banco Bradesco Sa, W5,1/11/2005,3
+O,Tsakos Energy Navigation Ltd, P4,3/16/2018,20
+O,Nuveen Credit Opportunities 2022 Target Term Fund, G1,1/6/2002,23
+O,Pimco California Municipal Income Fund II, X1,5/3/2015,13
+O,Two Harbors Investments Corp, D5,7/13/2012,30
+O,Hudson Ltd., Z6,5/25/2015,21
+O,John Hancock Income Securities Trust, O2,8/21/2009,25
+O,FIRST REPUBLIC BANK, U6,10/18/2006,12
+O,First Trust, F2,8/28/2003,22
+O,Eaton Vance Senior Floating-Rate Fund, R4,5/11/2014,22
+O,Pinnacle West Capital Corporation, Q6,6/18/2006,26
+O,Teekay Offshore Partners L.P., S6,8/7/2012,14
+O,KKR & Co. Inc., R7,12/4/2013,14
+O,Corporate Office Properties Trust, B9,9/22/2011,16
+O,Western Asset Mortgage Defined Opportunity Fund Inc, A9,9/13/2010,23
+O,Total S.A., R2,5/11/2006,17
+O,Costamare Inc., T9,11/11/2016,5
+O,Gabelli Multi-Media Trust Inc. (The), M8,4/25/2002,2
+O,Zions Bancorporation N.A., S2,6/11/2018,30
+O,Bank of America Corporation, F4,12/14/2016,16
+O,Colonial Intermediate High Income Fund, A7,11/8/2004,24
+O,F.N.B. Corporation, I5,10/21/2012,29
+O,Frank&#39;s International N.V., O1,11/4/2007,12
+O,TPG Pace Holdings Corp., Q4,6/4/2000,21
+O,AbbVie Inc., T5,5/14/2013,6
+O,Deutsche Bank AG, T7,8/21/2006,26
+O,Cushing MLP & Infrastructure Total Return Fund, Y0,3/23/2015,3
+O,KNOT Offshore Partners LP, I3,2/20/2016,9
+O,Cincinnati Bell Inc, Z7,4/15/2011,28
+O,Petroleo Brasileiro S.A.- Petrobras, N0,12/5/2005,20
+O,Pimco Income Opportunity Fund, Z6,6/6/2008,21
+O,Cloud Peak Energy Inc, W6,7/3/2014,16
+O,A.O Smith Corporation, L1,12/22/2013,13
+O,BlackRock Resources, Q8,12/21/2015,5
+O,Armstrong World Industries Inc, M5,10/24/2000,7
+O,Shinhan Financial Group Co Ltd, U6,12/2/2005,7
+O,Accenture plc, C9,9/24/2004,5
+O,KKR Real Estate Finance Trust Inc., Q9,10/16/2014,24
+O,Anworth Mortgage Asset  Corporation, K0,1/26/2011,14
+O,Canopy Growth Corporation, M0,7/24/2008,5
+O,BB&T Corporation, F0,9/2/2008,27
+O,Apollo Senior Floating Rate Fund Inc., S8,8/16/2012,20
+O,Braemar Hotels & Resorts Inc., R9,1/4/2012,3
+O,Scorpio Tankers Inc., N0,4/2/2018,16
+O,Sealed Air Corporation, J1,4/22/2013,17
+O,Associated Banc-Corp, X7,10/18/2018,29
+O,Salient Midstream & MLP Fund, P5,9/1/2018,11
+O,ENI S.p.A., U1,1/15/2005,29
+O,Nuveen Enhanced Municipal Value Fund, L0,6/18/2009,9
+O,R.R. Donnelley & Sons Company, Y9,12/19/2009,10
+O,Mitsubishi UFJ Financial Group Inc, T7,8/13/2003,29
+O,LyondellBasell Industries NV, B5,12/10/2014,29
+O,Oshkosh Corporation, E3,11/14/2007,5
+O,AVX Corporation, G0,2/17/2013,16
+O,Foresight Energy LP, U8,7/22/2005,26
+O,Sprague Resources LP, Q6,12/11/2015,23
+O,DAQO New Energy Corp., K3,10/26/2004,7
+O,MFC Bancorp Ltd., R8,2/2/2015,27
+O,Six Flags Entertainment Corporation New, U2,11/21/2008,21
+O,BlackRock Massachusetts Tax-Exempt Trust, O7,5/16/2012,26
+O,Legacy Acquisition Corp., T1,9/26/2015,14
+O,Leo Holdings Corp., H8,7/13/2008,17
+O,Companhia Paranaense de Energia (COPEL), P8,3/24/2013,28
+O,PolyOne Corporation, R6,11/2/2014,16
+O,One Madison Corporation, H1,10/2/2000,2
+O,GasLog LP., D4,1/21/2017,2
+O,Global Medical REIT Inc., F8,3/6/2018,22
+O,Tekla Healthcare Opportunies Fund, U3,8/1/2006,26
+O,Genuine Parts Company, A3,2/4/2003,8
+O,Aercap Holdings N.V., W4,10/20/2002,6
+O,Vonage Holdings Corp., M4,1/22/2017,2
+O,RH, J0,3/22/2013,25
+O,Precision Drilling Corporation, V9,10/4/2017,8
+O,EnPro Industries, L4,5/2/2002,12
+O,Cott Corporation, D7,2/4/2012,26
+O,RenaissanceRe Holdings Ltd., X7,6/1/2016,16
+O,Public Storage, S6,4/14/2014,6
+O,Nuveen Credit Opportunities 2022 Target Term Fund, V6,2/8/2014,7
+O,Toyota Motor Corp Ltd Ord, P9,10/23/2018,30
+O,Annaly Capital Management Inc, E3,10/20/2010,6
+O,Studio City International Holdings Limited, D8,1/23/2014,16
+O,Realty Income Corporation, H5,7/10/2000,7
+O,Leo Holdings Corp., L7,12/15/2016,10
+O,Morgan Stanley, E4,11/26/2010,27
+O,Legacy Acquisition Corp., L5,8/22/2012,8
+O,Kansas City Southern, A6,9/28/2011,3
+O,Ternium S.A., V3,11/17/2000,25
+O,John Bean Technologies Corporation, M6,5/3/2011,30
+O,PetroChina Company Limited, Y9,4/7/2005,20
+O,Verso Corporation, I5,3/1/2009,9
+O,Gabelli Multi-Media Trust Inc. (The), M5,1/12/2011,13
+O,Hillenbrand Inc, S7,8/7/2008,2
+O,Guangshen Railway Company Limited, G3,7/20/2013,2
+O,iStar Inc., J2,6/11/2018,8
+O,John Hancock Tax-Advantaged Global Shareholder Yield Fund, C9,7/12/2010,14
+O,Stellus Capital Investment Corporation, U0,4/21/2015,24
+O,Hubbell Inc, Z3,11/4/2006,14
+O,Bank of America Corporation, I0,1/2/2006,28
+O,International Business Machines Corporation, I7,2/8/2011,27
+O,Teekay Offshore Partners L.P., L3,8/23/2016,11
+O,Ares Capital Corporation, G9,10/27/2006,4
+O,Chevron Corporation, S6,9/1/2006,26
+O,BlueLinx Holdings Inc., B0,11/3/2004,18
+O,ASA Gold and Precious Metals Limited, G0,11/6/2005,4
+O,MFS Multimarket Income Trust, N0,7/19/2005,18
+O,Citigroup Inc., J2,6/24/2007,20
+O,Stantec Inc, L2,8/28/2002,27
+O,Cushman & Wakefield plc, D2,6/21/2016,4
+O,Wells Fargo & Company, L5,11/7/2016,10
+O,OFG Bancorp, S9,10/17/2003,5
+O,NCR Corporation, Z5,10/3/2011,25
+O,Quotient Technology Inc., P3,9/22/2000,30
+O,Torchmark Corporation, N3,1/28/2015,26
+O,Invesco High Income 2024 Target Term Fund, F6,8/3/2005,4
+O,Eaton Vance Municipal Income Trust, Z4,7/6/2017,3
+O,Virtus Total Return Fund Inc., L6,4/9/2013,1
+O,CIT Group Inc (DEL), E2,10/2/2000,10
+O,Annaly Capital Management Inc, S7,9/22/2009,19
+O,Hoegh LNG Partners LP, Y3,6/18/2003,21
+O,WNS (Holdings) Limited, H3,8/10/2015,20
+O,Companhia Brasileira de Distribuicao, J1,12/11/2007,22
+O,W.R. Berkley Corporation, Y5,11/27/2010,10
+O,Kemper Corporation, J0,11/28/2013,4
+O,Eclipse Resources Corporation, X1,8/18/2012,7
+O,Regalwood Global Energy Ltd., V1,9/6/2004,17
+O,ASGN Incorporated, F0,5/18/2012,26
+O,Unifirst Corporation, Z1,5/17/2017,22
+O,RenaissanceRe Holdings Ltd., G5,4/15/2002,30
+O,Nuveen AMT-Free Municipal Value Fund, Y3,10/18/2000,14
+O,Crescent Point Energy Corporation, V5,8/9/2012,16
+O,Tekla Life Sciences Investors, V1,12/20/2015,17
+O,Deutsch Bk Contingent Cap Tr V, S1,3/12/2015,10
+O,Spire Inc., B5,4/21/2010,7
+O,Pimco New York Municipal Income Fund II, C0,7/15/2009,20
+O,Banco De Chile, P2,11/10/2015,25
+O,China Life Insurance Company Limited, D2,3/9/2009,15
+O,Zions Bancorporation N.A., J8,9/15/2012,21
+O,Farmland Partners Inc., N9,12/4/2012,13
+O,Mechel PAO, U9,5/12/2016,25
+O,Teekay Offshore Partners L.P., Z3,7/25/2013,10
+O,Lexington Realty Trust, Y2,9/11/2007,28
+O,Mechel PAO, S8,9/28/2002,9
+O,Alibaba Group Holding Limited, J9,10/23/2009,12
+O,CNH Industrial N.V., O1,2/22/2008,24
+O,Nuveen Select Tax Free Income Portfolio, L1,1/26/2013,4
+O,AllianceBernstein Holding L.P., Z9,8/28/2018,1
+O,Loews Corporation, O1,11/6/2015,9
+O,Nuveen High Income 2023 Target Term Fund, B9,8/8/2013,8
+O,Citigroup Inc., S5,2/12/2015,23
+O,Weatherford International plc, Q2,7/3/2002,29
+O,Nuveen High Income 2023 Target Term Fund, L3,11/26/2004,1
+O,McEwen Mining Inc., Y8,5/22/2013,17
+O,W.P. Carey Inc., G9,8/8/2006,8
+O,Permianville Royalty Trust, Y6,12/10/2008,20
+O,Prospect Capital Corporation, B0,5/21/2006,10
+O,Koninklijke Philips N.V., W7,1/2/2014,1
+O,Pentair plc., C8,7/1/2004,4
+O,Morgan Stanley China A Share Fund Inc., J2,4/7/2008,13
+O,Altria Group, N7,7/12/2018,23
+O,Kansas City Southern, Y3,10/19/2014,19
+O,Unit Corporation, R9,2/16/2004,6
+O,Arlington Asset Investment Corp, H5,8/19/2008,30
+O,Eagle Point Credit Company Inc., B6,6/21/2006,4
+O,Urstadt Biddle Properties Inc., G5,11/8/2003,19
+O,Capital One Financial Corporation, C4,8/11/2018,30
+O,nVent Electric plc, X9,6/5/2009,24
+O,Intercontinental Hotels Group, B9,7/12/2003,4
+O,Union Acquisition Corp., O9,1/21/2002,9
+O,Ashford Hospitality Trust Inc, M8,1/27/2013,2
+O,TPG Pace Holdings Corp., Q3,3/8/2018,28
+O,Ally Financial Inc., P9,7/13/2014,5
+O,Flaherty & Crumrine Total Return Fund Inc, F6,12/18/2003,15
+O,Granite Construction Incorporated, T1,9/6/2010,22
+O,Federated Premier Municipal Income Fund, D4,10/25/2000,4
+O,Novo Nordisk A/S, F1,4/24/2018,21
+O,Sunoco LP, R9,2/22/2012,23
+O,Bank of America Corporation, G4,4/15/2012,27
+O,Capital One Financial Corporation, X5,11/5/2009,20
+O,CBX (Listing Market NYSE Networks AE, I8,10/5/2000,25
+O,Tennessee Valley Authority, Y8,3/8/2003,22
+O,Jagged Peak Energy Inc., K5,1/23/2018,15
+O,Morgan Stanley, F3,7/11/2018,27
+O,Carvana Co., C0,4/13/2016,29
+O,Radian Group Inc., R3,8/7/2007,24
+O,Salient Midstream & MLP Fund, R0,3/10/2006,21
+O,Kimco Realty Corporation, U4,4/18/2001,25
+O,CNX Resources Corporation, C0,6/12/2011,6
+O,Navios Maritime Holdings Inc., V2,1/8/2011,20
+O,Aberdeen Global Premier Properties Fund, B7,11/27/2004,27
+O,Hoegh LNG Partners LP, O2,8/18/2008,6
+O,TriplePoint Venture Growth BDC Corp., N9,8/3/2011,23
+O,General Motors Company, X5,5/25/2007,3
+O,Genpact Limited, R3,11/21/2014,16
+O,Eaton Vance Tax-Advantage Global Dividend Opp, Z6,1/15/2000,10
+O,VEREIT Inc., B0,11/9/2001,24
+O,Berkshire Hathaway Inc., K0,9/11/2012,25
+O,Vornado Realty Trust, N0,2/22/2014,23
+O,FirstEnergy Corp., U8,12/8/2012,2
+O,Unum Group, M0,2/28/2011,26
+O,McDonald&#39;s Corporation, E5,1/17/2013,30
+O,W.R. Berkley Corporation, L1,8/23/2005,20
+O,Allegion plc, S9,4/17/2016,2
+O,Yirendai Ltd., K5,10/2/2006,19
+O,GATX Corporation, Z2,2/14/2001,19
+O,Marathon Petroleum Corporation, C1,4/26/2018,8
+O,Callon Petroleum Company, D7,6/18/2018,2
+O,Fomento Economico Mexicano S.A.B. de C.V., D6,4/27/2004,10
+O,BlackRock Investment Quality Municipal Trust Inc. (The), K9,8/23/2003,19
+O,EPR Properties, N1,9/20/2018,3
+O,Ingredion Incorporated, V6,2/23/2012,17
+O,Vista Outdoor Inc., Q5,4/4/2006,18
+O,Western Asset Bond Fund, P6,7/23/2012,14
+O,First Data Corporation, C7,5/7/2011,27
+O,Teleflex Incorporated, K5,8/8/2001,5
+O,Buenaventura Mining Company Inc., O8,2/19/2004,16
+O,HollyFrontier Corporation, Q5,5/6/2004,4
+O,SJW Group, R9,7/11/2012,12
+O,AMN Healthcare Services Inc, D8,1/22/2006,11
+O,HSBC Holdings plc, S9,7/24/2010,14
+O,GasLog Partners LP, T0,11/1/2005,15
+O,Chesapeake Energy Corporation, O4,11/22/2012,12
+O,Legacy Acquisition Corp., K8,6/5/2016,19
+O,Sterling Bancorp, Y1,5/11/2005,4
+O,Tsakos Energy Navigation Ltd, E3,9/24/2004,21
+O,BlackRock Resources, G1,1/1/2018,26
+O,Arthur J. Gallagher & Co., G6,11/16/2016,9
+O,Synovus Financial Corp., W9,12/24/2006,19
+O,Visa Inc., K2,2/2/2014,29
+O,Northrop Grumman Corporation, N5,3/8/2012,28
+O,Ferrari N.V., D6,6/19/2015,10
+O,K12 Inc, W3,9/25/2001,13
+O,J P Morgan Chase & Co, Z6,11/28/2005,14
+O,Nuven Mortgage Opportunity Term Fund 2, M6,7/17/2017,3
+O,SAP SE, M3,10/10/2001,7
+O,Seaspan Corporation, P6,9/6/2009,5
+O,Virtus Total Return Fund Inc., L7,4/15/2013,18
+O,Farfetch Limited, M8,1/12/2001,19
+O,Acadia Realty Trust, N7,6/23/2008,14
+O,Banco Bilbao Viscaya Argentaria S.A., X8,12/11/2008,11
+O,Greif Bros. Corporation, M6,10/10/2008,18
+O,Studio City International Holdings Limited, V1,12/6/2003,24
+O,SandRidge Mississippian Trust II, C2,9/7/2006,7
+O,Tenaris S.A., E8,6/24/2004,5
+O,Union Pacific Corporation, J8,1/22/2007,22
+O,Encompass Health Corporation, N7,3/16/2006,5
+O,Ciner Resources LP, I3,4/2/2001,21
+O,Red Lion Hotels Corporation, O3,10/13/2018,16
+O,Capital One Financial Corporation, Z7,7/28/2001,10
+O,Virtus Total Return Fund Inc., T3,8/5/2003,19
+O,Sunoco LP, X2,2/5/2005,21
+O,Invesco High Income 2024 Target Term Fund, K7,2/16/2011,17
+O,Equity Commonwealth, Z1,5/24/2001,6
+O,Nuveen Dow 30SM Dynamic Overwrite Fund, I0,3/9/2016,7
+O,Linde plc, X4,1/20/2002,26
+O,Prestige Consumer Healthcare Inc., D2,7/10/2004,14
+O,Duke Energy Corporation, P3,2/3/2018,8
+O,Equitrans Midstream Corporation, D6,12/5/2017,18
+O,Costamare Inc., O2,6/17/2018,20
+O,nVent Electric plc, B7,8/19/2015,17
+O,nVent Electric plc, J3,4/25/2005,7
+O,SL Green Realty Corp, D4,11/5/2012,1
+O,Lincoln National Corporation, E1,2/6/2017,8
+O,Pimco High Income Fund, E8,3/3/2006,14
+O,Cherry Hill Mortgage Investment Corporation, L8,1/6/2016,17
+O,Ameren Corporation, O9,12/19/2002,10
+O,Bausch Health Companies Inc., B3,6/21/2008,23
+O,Cummins Inc., K0,11/25/2012,19
+O,Colonial Municipal Income Trust, H1,5/12/2010,5
+O,American Homes 4 Rent, I1,3/21/2003,17
+O,TE Connectivity Ltd., H3,1/15/2014,13
+O,Arlington Asset Investment Corp, W7,11/22/2011,15
+O,Graf Industrial Corp., J7,7/23/2008,4
+O,HDFC Bank Limited, R2,7/19/2006,18
+O,MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14, P8,11/9/2003,7
+O,Prospect Capital Corporation, E0,7/14/2014,11
+O,Bank of America Corporation, B1,2/17/2010,9
+O,Olin Corporation, N0,3/27/2000,7
+O,Anworth Mortgage Asset  Corporation, Q1,9/25/2006,3
+O,John Hancock Tax-Advantaged Global Shareholder Yield Fund, V0,1/16/2014,14
+O,Dolby Laboratories, W9,10/11/2018,24
+O,Scudder Strategic Municiple Income Trust, T9,1/10/2014,21
+O,Lexington Realty Trust, V3,2/26/2003,28
+O,First Horizon National Corporation, K2,4/6/2017,16
+O,Ferro Corporation, R8,12/3/2016,23
+O,Voya Prime Rate Trust, X0,7/27/2015,23
+O,Southwest Airlines Company, N2,1/18/2014,20
+O,PIMCO California Municipal Income Fund III, L3,12/28/2009,28
+O,Gerdau S.A., I5,2/12/2016,5
+O,STRATS Trust, N6,12/16/2010,26
+O,Arlington Asset Investment Corp, W2,8/21/2016,14
+O,Zions Bancorporation N.A., O5,2/16/2016,7
+O,Agree Realty Corporation, D4,3/22/2006,15
+O,Embotelladora Andina S.A., E9,8/25/2012,25
+O,Entergy Texas Inc, D4,2/25/2017,16
+O,Capital One Financial Corporation, I6,12/8/2007,21
+O,CVR Energy Inc., X0,9/6/2012,24
+O,XAI Octagon Floating Rate & Alternative Income Term Trust, M6,3/27/2013,23
+O,New Frontier Corporation, C3,9/23/2003,24
+O,China Mobile (Hong Kong) Ltd., T2,3/17/2011,19
+O,WPP plc, E6,10/23/2016,20
+O,Healthcare Realty Trust Incorporated, V5,8/3/2008,9
+O,Invesco Value Municipal Income Trust, C4,9/17/2009,18
+O,Blackrock Municipal Bond Trust, N3,1/12/2003,16
+O,INVESCO MORTGAGE CAPITAL INC, W3,6/7/2002,20
+O,Stifel Financial Corporation, O9,10/17/2004,18
+O,Sociedad Quimica y Minera S.A., D7,5/3/2013,26
+O,Sterling Bancorp, F3,1/5/2005,7
+O,Teekay Offshore Partners L.P., I4,12/5/2003,6
+O,KeyCorp, B8,1/23/2003,3
+O,Cenovus Energy Inc, A7,7/28/2012,25
+O,NIO Inc., D7,3/4/2016,5
+O,YPF Sociedad Anonima, X0,6/20/2015,5
+O,Western Asset Municipal Defined Opportunity Trust Inc, X0,7/17/2016,28
+O,Ball Corporation, I4,6/15/2005,11
+O,BlackRock Virginia Municipal Bond Trust, T6,3/2/2010,9
+O,The Blackstone Group L.P., U2,3/19/2015,28
+O,Artisan Partners Asset Management Inc., E1,12/26/2010,9
+O,Cabot Oil & Gas Corporation, V3,5/18/2011,14
+O,Flaherty & Crumrine Preferred Income Fund Incorporated, Q1,1/7/2001,4
+O,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc., K8,12/17/2001,18
+O,Endeavour Silver Corporation, U8,5/28/2000,26
+O,Tsakos Energy Navigation Ltd, P5,6/18/2003,28
+O,S&P Global Inc., U6,11/1/2013,13
+O,TPG Pace Holdings Corp., U3,11/12/2014,17
+O,Embotelladora Andina S.A., B3,5/27/2000,10
+O,EQT Corporation, B9,4/22/2006,28
+O,Graf Industrial Corp., B4,10/15/2007,22
+O,Frontline Ltd., U1,2/20/2008,15
+O,Vonage Holdings Corp., B8,4/3/2015,23
+O,BalckRock Taxable Municipal Bond Trust, Z2,10/21/2000,6
+O,Performance Food Group Company, F1,11/18/2010,24
+O,Vermilion Energy Inc., B3,1/17/2015,7
+O,CABCO Series 2004-101 Trust, I8,8/12/2004,29
+O,Alliance World Dollar Government Fund II, O3,8/12/2004,24
+O,Geo Group Inc (The), E7,3/26/2017,26
+O,SL Green Realty Corp, Y4,7/27/2007,27
+O,Cummins Inc., H1,1/25/2000,18
+O,Cameco Corporation, I9,5/1/2010,29
+O,Compass Diversified Holdings, I8,10/1/2011,25
+O,Avery Dennison Corporation, Y2,11/8/2011,20
+O,AllianzGI Convertible & Income Fund, T4,6/20/2000,24
+O,Pebblebrook Hotel Trust, N0,8/20/2002,8
+O,Meritage Corporation, A1,5/11/2012,18
+O,Macquarie Global Infrastructure Total Return Fund Inc., J2,10/5/2014,14
+O,The Gabelli Healthcare & Wellness Trust, X2,5/12/2002,7
+O,Eaton Vance Tax-Advantaged Global Dividend Income Fund, R0,3/28/2003,22
+O,Japan Smaller Capitalization Fund Inc, L6,7/13/2011,12
+O,Goldman Sachs MLP Energy Renaissance Fund, J8,10/7/2014,10
+O,Global Payments Inc., F3,12/26/2009,29
+O,Sabine Royalty Trust, N5,6/27/2013,14
+O,W.R. Berkley Corporation, K7,5/5/2003,6
+O,Biglari Holdings Inc., K2,4/20/2011,11
+O,Lyon William Homes, O8,7/15/2009,16
+O,American States Water Company, C1,1/11/2009,1
+O,Moog Inc., C5,8/22/2010,2
+O,Cemex S.A.B. de C.V., D4,10/25/2005,24
+O,Peabody Energy Corporation, A6,9/8/2005,24
+O,Packaging Corporation of America, R3,2/23/2012,13
+O,Eagle Growth and Income Opportunities Fund, Q4,6/4/2017,11
+O,Cameco Corporation, R3,9/26/2004,16
+O,Nuveen Floating Rate Income Opportuntiy Fund, F8,10/17/2011,1
+O,Assured Guaranty Ltd., Q1,7/9/2018,28
+O,CubeSmart, M2,9/10/2017,30
+O,DAQO New Energy Corp., X2,2/10/2013,4
+O,Clipper Realty Inc., W7,2/21/2003,16
+O,Omnicom Group Inc., A4,6/25/2000,27
+O,New Frontier Corporation, H3,12/7/2015,16
+O,Dreyfus High Yield Strategies Fund, E3,5/5/2003,25
+O,Vince Holding Corp., Y5,1/15/2016,28
+O,Unit Corporation, L9,9/26/2000,1
+O,Abbott Laboratories, G0,4/18/2012,1
+O,Unisys Corporation, A3,12/17/2017,5
+O,Advent Claymore Convertible Securities and Income Fund, E3,3/15/2000,22
+O,Tronox Limited, S0,10/8/2011,17
+O,Fortis Inc., H3,11/8/2015,9
+O,Agree Realty Corporation, Y8,9/21/2014,30
+O,Sunlands Online Education Group, V6,1/5/2018,7
+O,PennyMac Mortgage Investment Trust, E1,12/14/2016,25
+O,Murphy USA Inc., L9,7/15/2005,2
+O,STRATS Trust, W4,7/14/2010,10
+O,SITE Centers Corp., I3,4/9/2006,21
+O,PIMCO California Municipal Income Fund III, L6,4/11/2016,4
+O,Eagle Point Credit Company Inc., I5,6/28/2002,9
+O,Geo Group Inc (The), V7,11/26/2006,26
+O,Sempra Energy, C6,7/18/2012,5
+O,Lazard Global Total Return and Income Fund, G4,1/3/2007,11
+O,Glatfelter, Q7,11/22/2013,5
+O,AZZ Inc., T6,4/12/2004,26
+O,Arbor Realty Trust, L5,11/8/2010,30
+O,Six Flags Entertainment Corporation New, D2,4/9/2008,20
+O,Western Asset Corporate Loan Fund Inc, M1,11/22/2001,28
+O,NewJersey Resources Corporation, G8,10/25/2004,25
+O,Canopy Growth Corporation, H1,11/20/2014,28
+O,New Mountain Finance Corporation, B4,5/21/2007,17
+O,Invesco Mortgage Capital Inc., H8,4/13/2002,18
+O,Putnam Master Intermediate Income Trust, D5,7/2/2013,23
+O,Royal Caribbean Cruises Ltd., B3,12/6/2003,17
+O,Liberty Property Trust, L6,11/2/2008,29
+O,Tenet Healthcare Corporation, O7,8/26/2004,13
+O,Performance Food Group Company, U8,12/11/2014,5
+O,Graf Industrial Corp., H7,5/13/2017,6
+O,Christopher & Banks Corporation, A7,4/5/2015,25
+O,Zions Bancorporation N.A., J2,3/26/2011,12
+O,John Hancock Tax Advantaged Dividend Income Fund, W7,11/1/2010,19
+O,Wayfair Inc., V1,11/22/2012,16
+O,American Homes 4 Rent, V4,12/11/2018,24
+O,Drive Shack Inc., C8,11/28/2012,14
+O,Jagged Peak Energy Inc., V3,2/15/2002,13
+O,Ivy High Income Opportunities Fund, X1,10/23/2017,24
+O,Whitestone REIT, B5,9/4/2000,2
+O,Emerge Energy Services LP, G8,1/19/2011,25
+O,Covia Holdings Corporation, A1,4/22/2010,2
+O,Huntsman Corporation, K4,7/21/2001,22
+O,United States Cellular Corporation, C8,4/21/2017,12
+O,Nuveen High Income 2023 Target Term Fund, Q7,9/7/2016,1
+O,Cigna Corporation, B3,3/12/2014,14
+O,Equity Residential, K6,7/6/2010,15
+O,Total S.A., W2,12/13/2005,25
+O,Pioneer Municipal High Income Advantage Trust, G4,12/5/2000,5
+O,SITE Centers Corp., I5,8/25/2003,12
+O,Kimco Realty Corporation, Y5,2/12/2007,27
+O,Lexington Realty Trust, M5,12/11/2010,3
+O,National Retail Properties, O0,10/2/2012,23
+O,Tenaris S.A., Z7,1/25/2008,13
+O,CNH Industrial N.V., Y1,9/24/2017,22
+O,WNS (Holdings) Limited, X5,9/8/2014,11
+O,JMP Group LLC, H8,3/22/2014,12
+O,Harmony Gold Mining Company Limited, H3,1/2/2001,16
+O,Braemar Hotels & Resorts Inc., U8,9/3/2013,13
+O,Mastercard Incorporated, O5,2/14/2002,19
+O,XAI Octagon Floating Rate & Alternative Income Term Trust, G2,5/26/2012,4
+O,Sonoco Products Company, G9,1/22/2006,15
+O,Mallinckrodt plc, Z8,7/28/2016,4
+O,McKesson Corporation, H0,7/17/2009,29
+O,Eaton Vance Enhanced Equity Income Fund II, K7,10/9/2009,22
+O,Johnson & Johnson, K5,1/3/2012,24
+O,BlackRock Income Trust Inc. (The), X5,9/9/2013,11
+O,Phillips 66, Q2,5/12/2010,18
+O,CorePoint Lodging Inc., X9,10/6/2004,18
+O,Wells Fargo & Company, H6,12/26/2011,24
+O,First Trust Senior Floating Rate 2022 Target Term Fund, P5,9/25/2007,15
+O,Nuveen Taxable Municipal Income Fund, Z3,4/15/2009,1
+O,Kite Realty Group Trust, U3,2/27/2014,20
+O,PIMCO California Municipal Income Fund III, S1,2/27/2005,19
+O,Urban Edge Properties, Q3,10/3/2003,25
+O,Lehman ABS Corporation, S1,9/13/2001,21
+O,Eaton Vance Short Diversified Income Fund, R4,5/19/2006,21
+O,Seaspan Corporation, E9,12/6/2007,1
+O,First Trust/Aberdeen Global Opportunity Income Fund, G9,6/1/2009,26
+O,Orion Engineered Carbons S.A, V2,8/12/2006,13
+O,Concord Medical Services Holdings Limited, J9,10/14/2010,11
+O,BrightSphere Investment Group plc, Z2,12/7/2004,23
+O,Comcast Corporation, A4,7/2/2011,28
+O,Fortis Inc., L2,4/24/2006,13
+O,Exxon Mobil Corporation, S7,12/14/2011,6
+O,JMP Group LLC, D4,7/24/2001,18
+O,TriplePoint Venture Growth BDC Corp., E8,8/5/2000,18
+O,Clorox Company (The), V0,4/13/2000,17
+O,Enel Americas S.A., N1,5/5/2016,20
+O,Federal Signal Corporation, H3,1/19/2018,29
+O,ASGN Incorporated, T4,7/10/2017,13
+O,OFG Bancorp, P2,9/14/2009,7
+O,Tsakos Energy Navigation Ltd, I7,2/23/2008,24
+O,Textron Inc., P0,5/7/2007,7
+O,Brown Forman Corporation, N8,9/4/2001,21
+O,Employers Holdings Inc, W6,1/24/2009,4
+O,Albemarle Corporation, M9,10/19/2013,26
+O,TransAlta Corporation, G6,11/27/2016,20
+O,Molina Healthcare Inc, K2,11/5/2000,9
+O,BBX Capital Corporation, F6,11/25/2002,3
+O,Cambrex Corporation, W7,10/9/2002,4
+O,Ladder Capital Corp, H3,1/20/2005,12
+O,FutureFuel Corp., C6,3/2/2005,12
+O,Noble Energy Inc., J9,4/15/2016,22
+O,Genco Shipping & Trading Limited , F5,10/17/2016,16
+O,California Water  Service Group Holding, L5,2/1/2013,27
+O,Apartment Investment and Management Company, Z6,9/3/2017,21
+O,Nuveen Preferred and Income Term Fund, G3,11/1/2007,27
+O,Embotelladora Andina S.A., W7,2/17/2001,26
+O,Cushing MLP & Infrastructure Total Return Fund, J1,12/3/2012,20
+O,Coca-Cola European Partners plc, P9,7/14/2015,18
+O,Farfetch Limited, G8,7/20/2009,29
+O,Danaos Corporation, U4,1/2/2013,19
+O,Citigroup Inc., A2,1/19/2013,26
+O,TransMontaigne Partners L.P., Z9,10/6/2018,1
+O,Ladder Capital Corp, E6,10/15/2008,4
+O,New Residential Investment Corp., B0,10/9/2002,24
+O,Seritage Growth Properties, M1,8/3/2008,11
+O,Spotify Technology S.A., B1,8/27/2016,20
+O,EnPro Industries, B0,11/22/2003,6
+O,Sealed Air Corporation, K4,8/3/2012,9
+O,Blackrock Health Sciences Trust, G1,8/8/2018,5
+O,Resolute Energy Corporation, A6,2/13/2008,20
+O,Nabors Industries Ltd., J9,7/3/2006,7
+O,Intercontinental Exchange Inc., H3,9/17/2008,6
+O,Legacy Acquisition Corp., I0,2/28/2014,8
+O,Teck Resources Ltd, B2,11/16/2005,13
+O,Assured Guaranty Ltd., F8,2/11/2001,26
+O,Union Acquisition Corp., C4,1/28/2010,22
+O,Baytex Energy Corp, Y1,3/10/2007,4
+O,TAL Education Group, E6,8/13/2007,7
+O,Eaton Vance Tax-Managed Diversified Equity Income Fund, S7,6/9/2008,22
+O,Zions Bancorporation N.A., B3,12/11/2007,7
+O,Marathon Petroleum Corporation, H1,11/25/2002,28
+O,Moog Inc., Q1,7/23/2001,1
+O,FIRST REPUBLIC BANK, D5,1/9/2018,23
+O,Antero Resources Corporation, H3,11/27/2008,23
+O,Pimco California Municipal Income Fund II, L2,8/10/2006,19
+O,iStar Inc., K3,3/21/2015,22
+O,Stifel Financial Corporation, J9,6/4/2008,25
+O,Granite Construction Incorporated, F8,8/13/2014,5
+O,Oshkosh Corporation, C6,1/18/2000,8
+O,Fabrinet, D4,12/23/2007,6
+O,Banco Santander Brasil SA, H1,4/28/2018,28
+O,Wipro Limited, E2,12/16/2007,18
+O,Public Storage, M3,2/5/2012,23
+O,Genesco Inc., R6,3/8/2001,3
+O,Monmouth Real Estate Investment Corporation, C8,12/7/2017,7
+O,Social Capital Hedosophia Holdings Corp., P4,3/22/2002,3
+O,Cantel Medical Corp., N6,4/13/2018,29
+O,Aspen Insurance Holdings Limited, O5,11/21/2006,10
+O,Deckers Outdoor Corporation, V7,5/27/2016,22
+O,Aegon NV, V9,9/7/2016,19
+O,Oi S.A., M7,4/14/2005,4
+O,Voya Global Equity Dividend and Premium Opportunity Fund, G1,9/26/2012,9
+O,Hexcel Corporation, I3,5/11/2016,16
+O,Air Lease Corporation, Q1,11/28/2007,22
+O,Morgan Stanley, I2,6/11/2013,26
+O,SandRidge Mississippian Trust II, Z3,7/4/2008,4
+O,Globant S.A., Q9,1/11/2004,22
+O,Nuveen Insured California Select Tax-Free Income Portfolio, E2,2/21/2012,9
+O,Southern Company (The), O3,12/18/2001,24
+O,Core Laboratories N.V., P0,7/14/2015,10
+O,First Trust MLP and Energy Income Fund, P7,6/4/2011,6
+O,Bank of America Corporation, K6,3/7/2003,25
+O,FS KKR Capital Corp., A6,2/24/2011,1
+O,Wells Fargo & Company, J4,3/2/2016,13
+O,Antero Midstream GP LP, Q3,7/5/2007,15
+O,KKR Income Opportunities Fund, T9,12/15/2016,27
+O,Advent Claymore Convertible Securities and Income Fund, O8,4/15/2015,22
+O,John Hancock Tax-Advantaged Global Shareholder Yield Fund, L9,1/5/2017,4
+O,Morgan Stanley, G5,6/28/2018,23
+O,John Hancock Tax-Advantaged Global Shareholder Yield Fund, T1,12/28/2003,11
+O,Anixter International Inc., N1,3/19/2009,25
+O,Pimco Municipal Income Fund II, S6,5/12/2017,13
+O,Petroleo Brasileiro S.A.- Petrobras, U1,1/16/2018,23
+O,Crane Co., A2,11/6/2004,4
+O,El Paso Corporation, R2,5/17/2003,18
+O,Hi-Crush Partners LP, V6,10/21/2007,5
+O,Companhia Brasileira de Distribuicao, E4,7/8/2016,16
+O,Renren Inc., M4,3/6/2009,7
+O,UnitedHealth Group Incorporated, L5,10/28/2017,24
+O,ABM Industries Incorporated, Z9,4/22/2011,6
+O,AllianzGI Convertible & Income Fund II, R2,3/9/2011,8
+O,J P Morgan Chase & Co, L5,7/13/2009,19
+O,Leo Holdings Corp., G1,10/5/2001,29
+O,Alliance World Dollar Government Fund II, J6,7/15/2001,29
+O,Ellington Financial LLC, T4,9/18/2004,3
+O,BlackRock New York Municipal Income Trust II, E9,10/21/2012,6
+O,Puxin Limited, L0,8/11/2010,13
+O,Transocean Ltd., G9,3/26/2011,25
+O,Colonial Investment Grade Municipal Trust, H2,4/7/2007,29
+O,Sensata Technologies Holding plc, N1,6/23/2001,10
+O,Telecom Italia S.P.A., W6,12/5/2015,13
+O,GoDaddy Inc., P6,5/4/2013,25
+O,Lannett Co Inc, Y6,9/23/2012,25
+O,Extra Space Storage Inc, O5,10/7/2009,24
+O,Prudential Public Limited Company, U2,11/2/2011,3
+O,Qwest Corporation, D1,7/11/2000,26
+O,Public Storage, B9,2/15/2013,3
+O,Far Point Acquisition Corporation, Z2,12/9/2011,26
+O,Nokia Corporation, P5,4/25/2001,1
+O,Hoegh LNG Partners LP, E8,12/23/2012,29
+O,Acadia Realty Trust, E7,7/15/2000,2
+O,BlackRock Municipal Target Term Trust Inc. (The), Y3,12/7/2000,12
+O,Monmouth Real Estate Investment Corporation, Q6,3/21/2008,16
+O,Telefonica SA, B5,4/5/2016,15
+O,Navios Maritime Holdings Inc., L4,9/24/2015,10
+O,Integer Holdings Corporation, L4,7/20/2002,27
+O,Exterran Corporation, M6,8/23/2015,16
+O,Eaton Vance Tax-Advantage Global Dividend Opp, W4,3/26/2016,3
+O,Teva Pharmaceutical Industries Limited, C3,5/25/2008,17
+O,iStar Inc., K1,6/16/2006,18
+O,iStar Inc., L4,1/24/2000,18
+O,Park Electrochemical Corporation, L6,7/10/2000,3
+O,Aon plc, Y2,4/1/2000,18
+O,Eaton Vance Tax-Managed Buy-Write Income Fund, I4,9/16/2003,21
+O,Gabelli Dividend, E5,4/23/2016,22
+O,PPlus Trust, J2,2/20/2009,24
+O,Public Storage, Y9,3/17/2007,16
+O,BanColombia S.A., N8,2/13/2000,9
+O,FIRST REPUBLIC BANK, P6,2/27/2006,13
+O,Nuveen Maryland Quality Municipal Income Fund, A0,6/4/2014,26
+O,Total S.A., I2,10/19/2003,12
+O,Cenovus Energy Inc, U8,2/5/2011,26
+O,J P Morgan Chase & Co, G1,3/18/2001,9
+O,Southern Company (The), L9,9/16/2013,4
+O,Dover Downs Gaming & Entertainment Inc, Z3,11/14/2007,27
+O,Nuveen California Municipal Value Fund 2, I9,9/16/2003,23
+O,J.M. Smucker Company (The), X5,9/24/2008,25
+O,Nuveen New Jersey Municipal Value Fund, N2,11/1/2018,1
+O,Coca-Cola Company (The), A1,1/7/2012,5
+O,Quest Diagnostics Incorporated, B8,8/5/2000,29
+O,Civeo Corporation, T0,1/8/2017,5
+O,BlackRock Credit Allocation Income Trust, E4,12/6/2012,16
+O,Tennant Company, E1,10/8/2017,29
+O,CNOOC Limited, F9,6/13/2010,29
+O,Metropolitan Bank Holding Corp., M1,10/26/2002,10
+O,Jacobs Engineering Group Inc., S0,4/4/2007,30
+O,Ardagh Group S.A., H6,8/4/2013,15
+O,BB&T Corporation, I5,3/26/2008,28
+O,Nuveen Municipal 2021 Target Term Fund, H5,11/8/2016,11
+O,Getty Realty Corporation, Q5,12/11/2005,8
+O,Nuveen Michigan Quality Municipal Income Fund, I0,11/9/2000,7
+O,Wabco Holdings Inc., M9,2/16/2017,29
+O,Exxon Mobil Corporation, I7,10/24/2003,1
+O,Nuveen AMT-Free Municipal Value Fund, A2,7/24/2013,13
+O,Halliburton Company, G5,2/14/2002,29
+O,Union Acquisition Corp., H1,4/18/2003,12
+O,ENI S.p.A., U5,5/6/2010,25
+O,PagSeguro Digital Ltd., K4,6/16/2018,7
+O,Nuveen AMT-Free Municipal Value Fund, T5,2/22/2002,26
+O,Discover Financial Services, M6,5/4/2017,2
+O,First Trust MLP and Energy Income Fund, X9,9/13/2000,8
+O,Standex International Corporation, M7,1/2/2015,7
+O,Lloyds Banking Group Plc, K0,5/1/2018,11
+O,PIMCO Dynamic Income Fund, Q7,10/11/2000,22
+O,GasLog Partners LP, R2,5/6/2006,20
+O,Studio City International Holdings Limited, O4,1/14/2012,21
+O,BanColombia S.A., R9,2/20/2015,8
+O,First Trust/Aberdeen Global Opportunity Income Fund, K4,6/10/2009,29
+O,AllianzGI Convertible & Income Fund II, R8,1/18/2018,25
+O,USG Corporation, D2,8/23/2012,6
+O,Aspen Insurance Holdings Limited, X2,12/27/2018,6
+O,Ciena Corporation, T4,6/22/2004,17
+O,Kimco Realty Corporation, J6,7/7/2015,26
+O,Southern California Edison Company, Z7,11/27/2015,9
+O,Stellus Capital Investment Corporation, D8,4/1/2003,14
+O,Mallinckrodt plc, F8,1/9/2018,17
+O,Getty Realty Corporation, T3,10/7/2004,26
+O,Nuveen Multi-Market Income Fund, O6,4/15/2004,7
+O,Quorum Health Corporation, K1,3/19/2006,7
+O,Putnam Master Intermediate Income Trust, W6,2/9/2015,4
+O,Kimco Realty Corporation, W9,5/24/2011,19
+O,Eaton Vance Tax-Advantage Global Dividend Opp, C8,5/24/2017,16
+O,MagnaChip Semiconductor Corporation, K9,3/15/2004,27
+O,KKR Income Opportunities Fund, S3,5/6/2013,11
+O,Public Storage, B3,8/28/2018,21
+O,Ciena Corporation, A8,12/26/2008,16
+O,Lions Gate Entertainment Corporation, Q1,7/2/2015,6
+O,Lazard Ltd., J6,4/20/2001,29
+O,Adecoagro S.A., B2,9/1/2018,19
+O,Concord Medical Services Holdings Limited, Z4,5/15/2005,29
+O,Nuveen Municipal 2021 Target Term Fund, M6,8/1/2006,18
+O,Braemar Hotels & Resorts Inc., G1,7/22/2008,12
+O,Federated Premier Municipal Income Fund, B0,12/16/2017,17
+O,Capstead Mortgage Corporation, V5,3/16/2013,27
+O,Vista Outdoor Inc., K4,12/16/2003,30
+O,Legacy Acquisition Corp., J3,12/14/2010,20
+O,Deluxe Corporation, E3,3/20/2003,25
+O,Louisiana-Pacific Corporation, C5,6/10/2000,25
+O,China Southern Airlines Company Limited, H0,9/25/2003,11
+O,NASDAQ TEST STOCK, C3,12/2/2004,15
+O,Vornado Realty Trust, L6,2/3/2007,25
+O,Global Medical REIT Inc., K3,9/1/2016,27
+O,Investors Real Estate Trust, O9,9/9/2016,26
+O,First Trust/Aberdeen Global Opportunity Income Fund, N0,12/4/2011,7
+O,Honeywell International Inc., Q9,2/7/2004,21
+O,TransAlta Corporation, M0,6/20/2012,6
+O,Ryerson Holding Corporation, X1,4/11/2016,5
+O,AVX Corporation, V8,8/27/2011,8
+O,Sparton Corporation, Y8,2/17/2009,12
+O,Vistra Energy Corp., W7,3/20/2002,13
+O,Pebblebrook Hotel Trust, F1,12/2/2005,23
+O,Maxar Technologies Inc., K4,2/23/2002,1
+O,Western Alliance Bancorporation, L7,3/22/2002,6
+O,Graham Holdings Company, B6,6/20/2004,12
+O,Invesco Senior Income Trust, H7,6/22/2012,21
+O,Telefonica Brasil S.A., K1,2/16/2016,4
+O,Sprague Resources LP, Z2,3/1/2004,18
+O,Federal Agricultural Mortgage Corporation, F6,8/9/2008,21
+O,Nomad Foods Limited, A3,8/18/2004,15
+O,Southwestern Energy Company, N9,7/1/2010,26
+O,Assured Guaranty Ltd., S9,9/4/2007,9
+O,Kimco Realty Corporation, D5,9/3/2017,27
+O,Toro Company (The), Z6,8/3/2018,15
+O,Pioneer Floating Rate Trust, X5,3/14/2001,21
+O,Nuveen Insured California Select Tax-Free Income Portfolio, K4,10/15/2013,24
+O,Bristow Group Inc, B6,5/15/2005,12
+O,Colonial Investment Grade Municipal Trust, V8,12/16/2007,8
+O,Brunswick Corporation, W2,6/22/2018,2
+O,Special Opportunities Fund Inc., V5,4/6/2005,3
+O,Eaton Vance Tax-Advantage Global Dividend Opp, L2,4/17/2001,20
+O,Micro Focus Intl PLC, S9,1/13/2014,10
+O,Mistras Group Inc, Y9,3/9/2008,25
+O,Enerplus Corporation, N4,3/1/2008,14
+O,Bluegreen Vacations Corporation, H3,5/14/2002,13
+O,Wipro Limited, X7,2/25/2013,15
+O,Urban Edge Properties, J4,5/1/2018,24
+O,DTE Energy Company, R5,5/18/2016,21
+O,Ferro Corporation, B3,2/16/2018,29
+O,RLI Corp., Z3,11/6/2006,7
+O,MRC Global Inc., W3,2/3/2003,29
+O,Southern Company (The), I1,10/8/2006,21
+O,CarMax Inc, P6,3/14/2011,24
+O,M&T Bank Corporation, A8,3/5/2013,19
+O,Qwest Corporation, J5,12/14/2014,14
+O,Invesco Value Municipal Income Trust, Y5,2/11/2005,24
+O,KKR & Co. Inc., A2,1/11/2015,14
+O,Target Corporation, S7,5/21/2006,5
+O,Stryker Corporation, D2,10/23/2010,17
+O,Wabco Holdings Inc., J4,1/7/2001,14
+O,Invesco Mortgage Capital Inc., X2,12/4/2000,15
+O,Delaware Enhanced Global Dividend, F4,2/27/2012,23
+O,Canadian Pacific Railway Limited, S9,2/11/2013,25
+O,Nuveen California Quality Municipal Income Fund, H0,10/20/2014,29
+O,Tredegar Corporation, E2,12/14/2001,26
+O,Yamana Gold Inc., P6,3/6/2007,7
+O,SandRidge Mississippian Trust II, F7,8/11/2013,14
+O,Christopher & Banks Corporation, K9,2/24/2010,17
+O,Sony Corp Ord, Y3,11/28/2005,1
+O,Manulife Financial Corp, L8,9/10/2007,16
+O,Deutsche Bank AG, R3,10/20/2001,1
+O,Seaspan Corporation, C3,10/18/2011,10
+O,Public Storage, V7,11/12/2002,14
+O,Anworth Mortgage Asset  Corporation, W7,6/1/2006,12
+O,James Hardie Industries plc., X9,11/22/2013,20
+O,ESCO Technologies Inc., Y6,10/2/2003,1
+O,AT&T Inc., T4,12/18/2004,6
+O,Scudder Municiple Income Trust, C9,11/9/2003,25
+O,Apartment Investment and Management Company, M3,12/2/2002,8
+O,DTE Energy Company, H7,11/24/2010,6
+O,Kohl&#39;s Corporation, Y9,6/26/2006,28
+O,Kayne Anderson MLP/Midstream Investment Company, X2,4/18/2008,10
+O,Total S.A., P5,7/12/2008,19
+O,Taylor Morrison Home Corporation, G4,5/18/2009,22
+O,Western Asset Emerging Markets Debt Fund Inc, Q1,4/26/2008,16
+O,M&T Bank Corporation, C2,3/6/2015,4
+O,National Bank Holdings Corporation, E7,9/22/2004,23
+O,Constellation Brands Inc, E2,8/18/2000,18
+O,Danaos Corporation, G8,11/23/2002,24
+O,NOW Inc., V6,7/19/2005,23
+O,Sterling Bancorp, C0,6/17/2003,25
+O,Western Asset Global Corporate Defined Opportunity Fund Inc., P6,9/28/2000,20
+O,Seadrill Limited, A8,9/15/2006,10
+O,HUYA Inc., V8,6/10/2005,19
+O,Unilever NV, P8,2/7/2007,16
+O,Triton International Limited, B6,9/8/2002,10
+O,Westwood Holdings Group Inc, K6,11/9/2011,29
+O,Cheetah Mobile Inc., E9,12/12/2011,15
+O,New Frontier Corporation, H0,5/10/2013,16
+O,Invesco Plc, B0,1/11/2015,20
+O,Cinemark Holdings Inc, H7,11/11/2007,4
+O,Pembina Pipeline Corp., F4,12/1/2013,1
+O,Wells Fargo & Company, X5,11/10/2009,28
+O,Canadian Pacific Railway Limited, N3,12/21/2001,15
+O,Leo Holdings Corp., L0,8/7/2000,28
+O,Hillenbrand Inc, Z3,7/8/2011,22
+O,Morgan Stanley, C7,5/5/2007,6
+O,Apollo Tactical Income Fund Inc., I4,3/8/2011,4
+O,Western Asset Variable Rate Strategic Fund Inc., T2,9/28/2015,16
+O,BlackRock New York Municipal Income Trust II, Z3,4/8/2008,23
+O,Wells Fargo & Company, C4,9/16/2004,1
+O,Aquantia Corp., H4,9/15/2009,27
+O,GP Strategies Corporation, Q2,4/18/2001,28
+O,Westwood Holdings Group Inc, T5,5/5/2004,11
+O,Nuveen Enhanced Municipal Value Fund, E7,6/14/2006,3
+O,Jianpu Technology Inc., F8,6/4/2011,29
+O,Ternium S.A., N8,4/1/2011,3
+O,Ultrapar Participacoes S.A., A3,8/15/2003,23
+O,Brookfield Global Listed Infrastructure Income Fund, E7,11/20/2018,8
+O,Maxar Technologies Inc., Q8,6/27/2011,11
+O,Whiting Petroleum Corporation, Q8,9/2/2007,9
+O,Westpac Banking Corporation, V2,9/11/2007,9
+O,Vornado Realty Trust, M7,11/22/2000,17
+O,A.H. Belo Corporation, R0,2/6/2017,25
+O,Union Pacific Corporation, H9,10/22/2011,7
+O,Advance Auto Parts Inc, X1,9/17/2010,11
+O,Telecom Argentina Stet - France Telecom S.A., H8,11/6/2017,12
+O,Kadant Inc, D8,2/8/2005,12
+O,Air Lease Corporation, K6,8/13/2012,28
+O,First Trust/Aberdeen Global Opportunity Income Fund, C6,6/8/2014,17
+O,Alibaba Group Holding Limited, P5,6/9/2002,7
+O,Medley LLC, R4,12/7/2009,30
+O,Capital One Financial Corporation, C7,12/17/2000,11
+O,U.S. Bancorp, L0,10/4/2011,14
+O,KB Home, E7,4/22/2002,6
+O,Kemper Corporation, R5,4/13/2002,25
+O,Physicians Realty Trust, R6,9/11/2003,21
+O,International Paper Company, D4,10/3/2002,26
+O,United States Cellular Corporation, S0,7/25/2011,13
+O,Leo Holdings Corp., P3,6/28/2008,27
+O,Capital One Financial Corporation, H2,2/14/2005,27
+O,VALE S.A., R2,1/18/2005,7
+O,Brixmor Property Group Inc., F7,2/8/2003,21
+O,Pitney Bowes Inc., G7,6/14/2014,28
+O,Olin Corporation, Q4,6/21/2012,20
+O,Canadian National Railway Company, R2,11/11/2000,8
+O,Sonoco Products Company, E5,4/24/2003,26
+O,Sociedad Quimica y Minera S.A., J7,8/20/2000,16
+O,Rayonier Inc., M7,10/10/2009,27
+O,Hersha Hospitality Trust, X7,3/5/2000,7
+O,Marine Products Corporation, E0,1/12/2003,7
+O,Energy Transfer L.P., M4,12/14/2009,30
+O,THL Credit Senior Loan Fund, P2,2/14/2016,14
+O,Capital One Financial Corporation, G6,1/6/2013,17
+O,Axalta Coating Systems Ltd., J4,3/8/2016,21
+O,Southern California Edison Company, V8,6/23/2012,9
+O,Tejon Ranch Co, X0,10/22/2013,5
+O,Drive Shack Inc., Q1,5/25/2003,17
+O,Allstate Corporation (The), J0,7/16/2009,2
+O,Nuveen New York AMT-Free Quality Municipal, E8,11/26/2006,1
+O,Vistra Energy Corp., Z2,8/18/2006,23
+O,VALE S.A., Q9,7/19/2011,2
+O,GCP Applied Technologies Inc., M7,5/20/2012,3
+O,Nuveen Insured New York Select Tax-Free Income Portfolio, I7,11/24/2011,22
+O,Nuveen Municipal High Income Opportunity Fund, M6,6/27/2017,14
+O,Exelon Corporation, Y3,2/20/2006,13
+O,Stifel Financial Corporation, T9,3/3/2012,3
+O,Hersha Hospitality Trust, I2,7/26/2005,17
+O,Ship Finance International Limited, M2,6/6/2000,27
+O,GCP Applied Technologies Inc., H5,12/18/2014,17
+O,MFS Intermediate Income Trust, Q5,2/25/2003,22
+O,Novo Nordisk A/S, M2,6/7/2006,25
+O,Sensient Technologies Corporation, S4,2/22/2000,13
+O,Realogy Holdings Corp., Y0,1/2/2008,21
+O,Gabelli Dividend, D8,4/25/2001,4
+O,Nuveen S&P 500 Dynamic Overwrite Fund, M2,9/25/2007,23
+O,Public Storage, P4,3/3/2000,1
+O,Axalta Coating Systems Ltd., R5,5/17/2000,13
+O,Artisan Partners Asset Management Inc., G2,9/13/2002,11
+O,Morgan Stanley, K1,10/20/2006,1
+O,Flaherty & Crumrine Preferred Income Opportunity Fund Inc, Z0,3/13/2008,12
+O,Materion Corporation, L2,6/3/2013,2
+O,PIMCO Dynamic Credit and Mortgage Income Fund, Y3,2/15/2012,20
+O,First Trust Dynamic Europe Equity Income Fund, Q8,11/14/2002,23
+O,Liberty All-Star Equity Fund, W0,4/21/2018,13
+O,Marathon Oil Corporation, Z4,6/21/2016,21
+O,American Vanguard Corporation, C0,8/3/2003,20
+O,U.S. Bancorp, H5,12/12/2010,4
+O,Avery Dennison Corporation, W9,7/11/2002,8
+O,GMS Inc., Q3,2/3/2009,18
+O,Exantas Capital Corp., H5,2/18/2006,5
+O,Eli Lilly and Company, W5,2/24/2005,12
+O,Genie Energy Ltd., W0,10/24/2006,4
+O,Royal Bank Of Canada, L7,3/20/2009,8
+O,Granite Point Mortgage Trust Inc., W2,3/9/2015,8
+O,Avery Dennison Corporation, A0,10/2/2013,10
+O,Baytex Energy Corp, P5,11/5/2004,9
+O,CTS Corporation, X5,4/27/2012,25
+O,CRH PLC, T1,9/24/2011,17
+O,Danaher Corporation, V7,6/17/2011,27
+O,Synovus Financial Corp., R3,8/18/2016,29
+O,FIRST REPUBLIC BANK, J4,3/28/2015,18
+O,Ecopetrol S.A., P3,3/20/2000,9
+O,Nuveen AMT-Free Quality Municipal Income Fund, Y1,5/15/2007,18
+O,Saratoga Investment Corp, D3,8/15/2001,6
+O,PPL Corporation, Z8,2/19/2012,11
+O,Bank Of New York Mellon Corporation (The), S5,12/14/2004,23
+O,PIMCO California Municipal Income Fund III, N3,9/28/2009,18
+O,Nabors Industries Ltd., Y7,8/11/2002,29
+O,AVX Corporation, Z5,9/16/2013,13
+O,Minerals Technologies Inc., U8,8/9/2005,3
+O,Atlantic Power Corporation, E8,5/25/2016,30
+O,Algonquin Power & Utilities Corp., M2,1/1/2002,23
+O,Special Opportunities Fund Inc., S1,1/21/2017,7
+O,Xinyuan Real Estate Co Ltd, X7,11/21/2007,23
+O,Mack-Cali Realty Corporation, L4,8/14/2009,3
+O,Johnson & Johnson, Z9,2/23/2004,25
+O,Guggenheim Enhanced Equity Income Fund, E6,2/9/2013,4
+O,Shopify Inc., W1,9/4/2010,8
+O,Liberty Property Trust, B3,5/15/2012,23
+O,Nuveen Massachusetts Municipal Income Fund, I4,9/27/2003,13
+O,Seaspan Corporation, W8,3/25/2012,23
+O,Dover Corporation, R1,6/3/2005,22
+O,Putnam Managed Municipal Income Trust, A9,3/22/2013,8
+O,Wabash National Corporation, Q2,1/10/2003,21
+O,Annaly Capital Management Inc, D7,2/11/2003,15
+O,Nutrien Ltd., F5,9/6/2002,4
+O,Nuveen High Income November 2021 Target Term Fund, V3,9/25/2004,16
+O,The Charles Schwab Corporation, V6,1/19/2003,20
+O,Azul S.A., H5,9/23/2006,15
+O,W.R. Berkley Corporation, N2,12/28/2009,24
+O,BalckRock Taxable Municipal Bond Trust, J8,7/28/2004,19
+O,Canadian National Railway Company, C2,12/15/2005,19
+O,NorthStar Realty Europe Corp., Z7,10/18/2013,25
+O,Brookfield Renewable Partners L.P., T8,5/1/2005,21
+O,Crown Castle International Corporation, I6,7/17/2011,26
+O,DaVita Inc., Z6,11/6/2006,5
+O,Omnicom Group Inc., D4,2/22/2017,7
+O,Hanesbrands Inc., Z9,7/17/2001,30
+O,AmerisourceBergen Corporation (Holding Co), A8,5/1/2006,24
+O,Bank of America Corporation, Q5,4/13/2001,6
+O,Qwest Corporation, T4,5/10/2003,24
+O,Medley Capital Corporation, R5,8/25/2014,25
+O,AllianzGI Convertible & Income 2024 Target Term Fund, N1,7/7/2001,2
+O,Two Harbors Investments Corp, J9,8/10/2013,27
+O,Teekay Offshore Partners L.P., C1,9/23/2005,3
+O,Citigroup Inc., D1,5/15/2006,14
+O,Macy&#39;s Inc, Z1,5/2/2012,23
+O,Herc Holdings Inc., R1,9/16/2003,17
+O,Cinemark Holdings Inc, H6,12/21/2012,20
+O,Adtalem Global Education Inc., L9,2/16/2007,4
+O,Regional Management Corp., E5,8/1/2006,18
+O,Kimco Realty Corporation, J2,12/13/2011,9
+O,World Fuel Services Corporation, B1,5/11/2012,4
+O,Deutsche Bank AG, F6,8/18/2003,6
+O,Grupo Aval Acciones y Valores S.A., O6,11/15/2002,27
+O,BBX Capital Corporation, N4,1/21/2004,3
+O,Fluor Corporation, N8,2/21/2016,1
+O,Mosaic Company (The), T8,7/17/2002,12
+O,Christopher & Banks Corporation, Q5,4/4/2007,13
+O,John Hancock Financial Opportunities Fund, H1,12/18/2005,8
+O,Royal Bank Scotland plc (The), A2,3/16/2016,20
+O,Invesco High Income 2023 Target Term Fund, U3,8/4/2003,6
+O,Aflac Incorporated, V1,4/22/2014,7
+O,NewMarket Corporation, W3,4/5/2006,10
+O,First Trust, Q6,6/15/2010,25
+O,Gazit-Globe Ltd., N8,9/28/2002,15
+O,AllianzGI Convertible & Income Fund, P9,1/20/2015,26
+O,Unilever PLC, N8,2/4/2001,3
+O,Brunswick Corporation, G9,11/27/2010,21
+O,Telecom Italia S.P.A., S8,2/26/2016,4
+O,Social Capital Hedosophia Holdings Corp., O9,10/23/2015,19
+O,AK Steel Holding Corporation, S4,12/10/2008,3
+O,Washington Prime Group Inc., N0,8/14/2010,8
+O,Nordic American Offshore Ltd., Y7,1/2/2005,3
+O,PartnerRe Ltd., R4,2/14/2003,12
+O,Kimco Realty Corporation, N4,5/5/2016,23
+O,Western Asset Mortgage Capital Corporation, Y1,11/21/2016,26
+O,Osisko Gold Royalties Ltd, W2,9/23/2010,17
+O,Hoegh LNG Partners LP, T0,11/28/2010,22
+O,AllianceBernstein Holding L.P., A1,2/8/2015,10
+O,PIMCO Income Strategy Fund II, A6,9/13/2013,8
+O,TIM Participacoes S.A., A2,9/11/2002,13
+O,Tenet Healthcare Corporation, U9,10/18/2014,22
+O,Ambev S.A., O2,7/13/2005,13
+O,National Bank Holdings Corporation, Z2,8/10/2007,2
+O,Associated Banc-Corp, B2,10/18/2011,24
+O,Realogy Holdings Corp., K1,9/18/2014,25
+O,VEREIT Inc., I4,8/25/2010,21
+O,Public Storage, K1,5/11/2002,18
+O,Bank of Nova Scotia (The), L0,4/28/2004,25
+O,John Hancock Tax-Advantaged Global Shareholder Yield Fund, T9,7/9/2003,24
+O,American Express Company, Q6,7/20/2017,19
+O,Gabelli Utility Trust (The), K4,6/25/2001,11
+O,Brookfield Global Listed Infrastructure Income Fund, T7,8/9/2005,7
+O,Glaukos Corporation, D2,2/22/2018,25
+O,Natural Resource Partners LP, H6,9/20/2004,4
+O,Coca-Cola European Partners plc, X0,3/19/2018,27
+O,Cementos Pacasmayo S.A.A., T6,10/20/2011,6
+O,Banco Bradesco Sa, Q2,8/17/2012,6
+O,Scorpio Tankers Inc., O2,9/13/2009,5
+O,Systemax Inc., Z8,6/16/2018,9
+O,Sotheby&#39;s, M3,9/15/2002,15
+O,Dollar General Corporation, T4,5/22/2007,12
+O,VICI Properties Inc., U6,7/1/2007,4
+O,SITE Centers Corp., V9,2/21/2016,4
+O,GCP Applied Technologies Inc., A1,5/21/2005,22
+O,Invesco High Income Trust II, H8,3/13/2007,20
+O,Putnam Master Intermediate Income Trust, O7,9/10/2013,22
+O,Teekay Tankers Ltd., O1,8/28/2011,22
+O,Retail Value Inc., Y4,3/20/2013,21
+O,Orange, Y5,1/28/2013,14
+O,Assured Guaranty Ltd., R2,7/7/2000,25
+O,Hanesbrands Inc., E4,8/22/2012,3
+O,CarMax Inc, X4,10/25/2015,30
+O,Hillenbrand Inc, J7,9/15/2012,6
+O,Netshoes (Cayman) Limited, U9,5/5/2011,18
+O,Thermo Fisher Scientific Inc, T2,4/19/2004,6
+O,Arbor Realty Trust, W0,12/9/2016,14
+O,Permianville Royalty Trust, R6,3/6/2000,11
+O,Highland Floating Rate Opportunities Fund, U8,3/16/2004,16
+O,Petroleo Brasileiro S.A.- Petrobras, L7,3/20/2008,19
+O,POSCO, I9,8/14/2011,29
+O,NGL ENERGY PARTNERS LP, B6,6/18/2018,4
+O,Tsakos Energy Navigation Ltd, L7,4/11/2002,30
+O,GasLog Partners LP, G7,10/10/2008,15
+O,Perspecta Inc., K4,12/10/2017,29
+O,Axalta Coating Systems Ltd., P3,12/1/2013,7
+O,DaVita Inc., N7,4/22/2008,14
+O,Venator Materials PLC, I7,2/4/2007,12
+O,Permian Basin Royalty Trust, D1,3/27/2012,13
+O,Green Dot Corporation, A3,4/28/2004,30
+O,Sunlands Online Education Group, X4,10/22/2015,4
+O,Tidewater Inc., U4,6/26/2003,8
+O,STRATS Trust, Q4,7/4/2016,15
+O,Nuveen Preferred & Income Securities Fund, O3,7/25/2006,14
+O,TriplePoint Venture Growth BDC Corp., F3,4/16/2003,4
+O,BlackRock Income Investment Quality Trust, C3,9/12/2009,25
+O,Western Union Company (The), B2,1/23/2015,27
+O,Pimco High Income Fund, W4,2/18/2010,14
+O,Restaurant Brands International Inc., M1,5/5/2001,17
+O,Allstate Corporation (The), Z3,3/11/2004,20
+O,Chatham Lodging Trust (REIT), K6,3/6/2004,27
+O,Graham Corporation, O4,7/17/2016,1
+O,Navios Maritime Partners LP, E5,6/23/2008,9
+O,Tekla Healthcare Opportunies Fund, W5,10/25/2001,14
+O,Far Point Acquisition Corporation, X9,1/10/2004,15
+O,Gabelli Dividend, S9,12/7/2006,15
+O,Gates Industrial Corporation plc, G7,11/8/2018,29
+O,Nuveenn Intermediate Duration Quality Municipal Term Fund, H8,6/13/2009,2
+O,Union Acquisition Corp., S2,6/5/2003,12
+O,Gabelli Dividend, A8,8/25/2015,2
+O,Macro Bank Inc., M2,2/1/2000,10
+O,ECA Marcellus Trust I, O9,1/17/2001,5
+O,Albany International Corporation, Y7,2/16/2001,18
+O,Petroleo Brasileiro S.A.- Petrobras, L2,11/2/2005,16
+O,PIMCO Income Strategy Fund, F6,12/15/2015,7
+O,Nuveenn Intermediate Duration Quality Municipal Term Fund, N4,11/22/2014,1
+O,Ingevity Corporation, R1,11/24/2016,12
+O,BalckRock Taxable Municipal Bond Trust, V4,9/16/2009,5
+O,Transdigm Group Incorporated, S6,10/27/2015,6
+O,Dean Foods Company, U5,12/22/2008,27
+O,Taiwan Semiconductor Manufacturing Company Ltd., F7,6/19/2013,25
+O,Urban Edge Properties, Q7,10/2/2010,19
+O,Kansas City Southern, O8,10/20/2002,8
+O,Crestwood Equity Partners LP, A4,5/4/2003,11
+O,Herc Holdings Inc., I8,2/11/2013,9
+O,Blackrock Municipal Income Quality Trust, D1,11/21/2014,15
+O,BB&T Corporation, X8,1/26/2008,15
+O,Norbord Inc., P2,10/8/2008,17
+O,New Mountain Finance Corporation, G8,11/5/2008,22
+O,Nordic American Offshore Ltd., R9,4/7/2007,30
+O,Hoegh LNG Partners LP, F3,10/20/2017,30
+O,Sun Life Financial Inc., A2,9/3/2000,17
+O,Iron Mountain Incorporated, Z8,10/17/2017,8
+O,Blackstone GSO Long Short Credit Income Fund, U4,3/28/2004,23
+O,EPR Properties, X8,11/4/2003,7
+O,Navistar International Corporation, I2,3/6/2007,17
+O,Pentair plc., B5,8/16/2002,15
+O,Dynagas LNG Partners LP, J8,9/5/2012,13
+O,RiverNorth Marketplace Lending Corporation, F2,1/28/2015,16
+O,BlackRock Income Investment Quality Trust, S1,2/23/2012,2
+O,RH, Y5,3/8/2015,28
+O,Adecoagro S.A., G8,6/10/2001,6
+O,Woori Bank, V1,5/2/2013,26
+O,Atkore International Group Inc., F8,11/9/2001,20
+O,Eaton Vance Enhance Equity Income Fund, K7,8/16/2003,12
+O,Quaker Chemical Corporation, Y3,11/14/2016,21
+O,Tekla World Healthcare Fund, Q6,6/11/2000,16
+O,NewMarket Corporation, U6,9/9/2015,5
+O,Och-Ziff Capital Management Group LLC, X6,10/28/2014,21
+O,American Equity Investment Life Holding Company, B5,9/15/2016,9
+O,UNIVERSAL INSURANCE HOLDINGS INC, B6,2/17/2012,18
+O,Azul S.A., X4,10/23/2007,19
+O,Public Storage, R2,11/14/2010,17
+O,Macy&#39;s Inc, A7,5/21/2003,9
+O,China New Borun Corporation, S3,7/5/2018,4
+O,Cision Ltd., Z0,9/10/2004,3
+O,Celanese Corporation, S3,10/11/2016,7
+O,Blackrock Health Sciences Trust, X5,3/13/2011,25
+O,Kohl&#39;s Corporation, D1,12/20/2005,21
+O,Hornbeck Offshore Services, F5,4/21/2010,27
+O,PartnerRe Ltd., O6,4/2/2003,19
+O,Associated Banc-Corp, Y0,2/7/2012,19
+O,AdvanSix Inc., X7,1/21/2011,21
+O,Garrett Motion Inc., F7,8/6/2004,27
+O,Canadian Imperial Bank of Commerce, L9,11/17/2004,5
+O,Anworth Mortgage Asset  Corporation, C8,5/12/2009,22
+O,Telecom Italia S.P.A., J2,2/4/2015,4
+O,Restaurant Brands International Inc., A2,6/26/2000,12
+O,Eaton Vance Tax-Advantaged Global Dividend Income Fund, Y6,9/22/2013,20
+O,FutureFuel Corp., X4,10/4/2018,5
+O,PIMCO Income Strategy Fund II, M0,7/8/2012,21
+O,PennyMac Mortgage Investment Trust, V4,5/28/2010,26
+O,Braskem S.A., W7,1/17/2007,26
+O,PermRock Royalty Trust, A0,3/16/2003,24
+O,ENI S.p.A., X0,4/7/2007,11
+O,CRH PLC, C8,4/7/2006,15
+O,Noah Holdings Ltd., S5,10/21/2006,28
+O,ArcelorMittal, H9,4/19/2008,7
+O,CRH PLC, T8,6/28/2006,19
+O,Target Corporation, C2,10/11/2009,26
+O,Deckers Outdoor Corporation, A8,12/22/2002,5
+O,Tri Continental Corporation, B4,5/10/2012,11
+O,Western Asset Mortgage Capital Corporation, H1,7/16/2012,4
+O,Verizon Communications Inc., A8,3/17/2009,29
+O,Ita? CorpBanca, A6,9/8/2016,6
+O,Nuveen Intermediate Duration Municipal Term Fund, Q9,3/28/2003,25
+O,Cheetah Mobile Inc., K8,3/2/2012,24
+O,AMN Healthcare Services Inc, B9,2/26/2013,19
+O,First Trust Dynamic Europe Equity Income Fund, T8,11/17/2015,22
+O,Modine Manufacturing Company, P3,6/13/2016,14
+O,Enbridge Inc, A5,8/25/2007,22
+O,China Telecom Corp Ltd, T4,2/12/2017,2
+O,Buenaventura Mining Company Inc., D4,7/17/2006,27
+O,ArcelorMittal, S7,10/21/2017,27
+O,Target Corporation, F6,5/16/2012,2
+O,Haemonetics Corporation, D2,4/9/2006,29
+O,Bloom Energy Corporation, C5,1/17/2014,5
+O,Axis Capital Holdings Limited, X6,11/6/2008,17
+O,Kroger Company (The), D4,2/10/2017,13
+O,Nuveen Taxable Municipal Income Fund, X9,2/5/2007,19
+O,Nuveen Select Tax Free Income Portfolio II, D1,2/20/2006,21
+O,Israel Chemicals Shs, D8,8/17/2016,29
+O,Gabelli Dividend, Z0,6/24/2007,2
+O,Western Asset Variable Rate Strategic Fund Inc., D5,11/19/2006,2
+O,Public Storage, T2,1/8/2004,25
+O,Eaton Vance High Income 2021 Target Term Trust, H3,7/18/2018,26
+O,Chesapeake Lodging Trust, B8,4/10/2018,22
+O,Bright Scholar Education Holdings Limited, B5,1/1/2000,27
+O,VEREIT Inc., A3,4/21/2000,23
+O,InterXion Holding N.V., H5,6/25/2013,30
+O,Brasilagro Cia Brasileira De Propriedades Agricolas, V5,3/23/2008,5
+O,International Paper Company, U9,1/7/2016,24
+O,Southern California Edison Company, Q5,11/24/2000,23
+O,ENI S.p.A., M8,4/8/2005,18
+O,INVESCO MORTGAGE CAPITAL INC, F2,6/10/2009,2
+O,Fomento Economico Mexicano S.A.B. de C.V., X3,9/5/2018,13
+O,AU Optronics Corp, N9,9/20/2012,10
+O,China Mobile (Hong Kong) Ltd., A0,7/11/2005,17
+O,Global Payments Inc., N3,1/23/2006,13
+O,Regional Management Corp., X6,4/6/2001,9
+O,Webster Financial Corporation, F0,11/8/2007,17
+O,Mueller Water Products Inc, A8,4/19/2013,18
+O,K12 Inc, H4,8/5/2016,11
+O,U.S. Bancorp, Z4,8/23/2018,23
+O,First Trust High Income Long Short Fund, C8,6/8/2005,15
+O,Citigroup Inc., P4,1/16/2012,5
+O,First American Corporation (The), C0,2/20/2008,14
+O,Geo Group Inc (The), V3,6/1/2009,14
+O,W.R. Berkley Corporation, S5,2/12/2010,16
+O,Allstate Corporation (The), Y4,10/14/2008,1
+O,Eaton Vance Tax-Advantaged Bond, H8,11/9/2010,18
+O,The GDL Fund, R7,10/19/2009,27
+O,Jabil Inc., C9,5/15/2014,27
+O,AllianzGI Equity & Convertible Income Fund, Y3,6/4/2015,19
+O,RLJ Lodging Trust, S6,4/20/2008,28
+O,NewJersey Resources Corporation, Y2,12/20/2016,19
+O,Pioneer Natural Resources Company, Z0,6/6/2002,10
+O,Great Ajax Corp., T2,5/9/2011,9
+O,Public Service Enterprise Group Incorporated, O5,6/3/2007,15
+O,Nuveen Select Tax Free Income Portfolio II, N9,12/23/2001,1
+O,A.H. Belo Corporation, H4,1/28/2018,16
+O,Pebblebrook Hotel Trust, A0,5/19/2009,14
+O,MV Oil Trust, V1,1/21/2007,19
+O,Platform Specialty Products Corporation, I7,8/15/2004,30
+O,Churchill Capital Corp, G8,9/14/2018,4
+O,Phoenix New Media Limited, N1,7/15/2010,20
+O,Assured Guaranty Ltd., O2,8/11/2013,12
+O,Mechel PAO, X6,3/25/2016,5
+O,Cemex S.A.B. de C.V., W5,4/12/2008,19
+O,Wells Fargo & Company, F3,8/21/2006,30
+O,Koppers Holdings Inc., X0,9/27/2006,30
+O,Jones Lang LaSalle Incorporated, R3,2/24/2006,16
+O,Herc Holdings Inc., Q9,2/3/2001,18
+O,Blackrock MuniYield Investment QualityFund, Y1,9/1/2003,20
+O,Rayonier Advanced Materials Inc., I8,10/14/2001,1
+O,Dana Incorporated, W5,9/26/2003,2
+O,Salient Midstream & MLP Fund, A9,11/24/2008,4
+O,Southern California Edison Company, U8,11/22/2009,23
+O,Stifel Financial Corporation, N0,8/3/2007,16
+O,Invacare Corporation, A1,11/26/2015,1
+O,KKR & Co. Inc., H0,3/9/2006,4
+O,Graham Holdings Company, L8,5/22/2012,5
+O,Nuveen High Income December 2019 Target Term Fund, Z6,12/18/2007,20
+O,State Street Corporation, G8,4/13/2005,30
+O,Masonite International Corporation, X8,2/11/2018,18
+O,Brookfield Infrastructure Partners LP, S6,6/1/2005,16
+O,International Business Machines Corporation, B9,1/4/2006,16
+O,Centrais Electricas Brasileiras S.A.- Eletrobras, R6,6/1/2012,12
+O,UNIVERSAL INSURANCE HOLDINGS INC, E7,12/7/2007,9
+O,SandRidge Mississippian Trust I, L9,10/27/2009,9
+O,The GDL Fund, Y3,11/12/2014,6
+O,NCR Corporation, D0,1/27/2013,10
+O,CBRE Clarion Global Real Estate Income Fund, R1,1/25/2018,13
+O,Avaya Holdings Corp., W1,4/22/2012,6
+O,Horace Mann Educators Corporation, G5,8/27/2006,20
+O,Welltower Inc., G0,10/8/2016,20
+O,Harris Corporation, W7,6/12/2015,14
+O,BB&T Corporation, G8,10/7/2014,19
+O,Valvoline Inc., Y2,10/11/2002,23
+O,Steel Partners Holdings LP, M2,11/11/2013,28
+O,Nuveen Preferred and Income Term Fund, G1,7/28/2018,30
+O,DTE Energy Company, K7,2/24/2003,8
+O,Stellus Capital Investment Corporation, F1,4/22/2011,20
+O,Prudential Public Limited Company, Y6,7/28/2008,20
+O,Hexcel Corporation, L2,2/26/2011,24
+O,Kohl&#39;s Corporation, V3,5/22/2012,9
+O,KT Corporation, D2,12/15/2008,1
+O,Livent Corporation, Q7,8/21/2001,10
+O,PIMCO California Municipal Income Fund, M4,9/17/2017,21
+O,Tiffany & Co., J9,3/10/2011,23
+O,Dynagas LNG Partners LP, B8,2/19/2014,15
+O,Voya Emerging Markets High Income Dividend Equity Fund, F1,7/20/2004,29
+O,Arlington Asset Investment Corp, O5,5/22/2001,4
+O,Arbor Realty Trust, Z8,11/16/2013,6
+O,Ares Management Corporation, D5,4/14/2006,1
+O,MagnaChip Semiconductor Corporation, R7,5/1/2009,8
+O,Ashford Hospitality Trust Inc, P1,7/15/2000,1
+O,Cantel Medical Corp., A1,10/13/2006,2
+O,One Madison Corporation, G2,7/26/2016,1
+O,Aspen Insurance Holdings Limited, L3,11/17/2011,21
+O,Brasilagro Cia Brasileira De Propriedades Agricolas, C9,9/24/2008,11
+O,Alamos Gold Inc., U9,4/16/2016,13
+O,First Trust, O8,9/24/2013,20
+O,BEST Inc., A7,10/13/2009,29
+O,DTE Energy Company, V5,9/20/2004,6
+O,Anworth Mortgage Asset  Corporation, A2,5/12/2001,24
+O,San Juan Basin Royalty Trust, L6,7/14/2002,3
+O,First Majestic Silver Corp., D4,9/6/2007,24
+O,Vistra Energy Corp., E4,1/6/2011,15
+O,First Trust Intermediate Duration Preferred & Income Fund, B8,2/23/2011,10
+O,Herbalife Nutrition Ltd., Q4,2/11/2009,6
+O,Scorpio Bulkers Inc., U7,9/21/2000,9
+O,Glaukos Corporation, J8,7/16/2003,14
+O,HighPoint Resources Corporation, I0,5/4/2008,4
+O,American Homes 4 Rent, F5,4/19/2001,16
+O,Ready Capital Corporation, G7,12/28/2013,29
+O,Transocean Ltd., C8,8/2/2018,23
+O,NASDAQ TEST STOCK, H9,2/6/2012,26
+O,Snap Inc., D9,6/8/2010,14
+O,Garrett Motion Inc., Q8,12/19/2017,28
+O,HighPoint Resources Corporation, M4,3/10/2006,19
+O,Grupo Supervielle S.A., O3,6/23/2002,12
+O,ASA Gold and Precious Metals Limited, D2,5/24/2006,23
+O,Evoqua Water Technologies Corp., G1,4/9/2008,6
+O,Bank of America Corporation, Q5,1/2/2014,28
+O,Tidewater Inc., M4,1/6/2007,11
+O,Sasol Ltd., D6,4/12/2004,30
+O,Arlington Asset Investment Corp, G7,9/16/2001,9
+O,Hanesbrands Inc., D6,5/24/2018,28
+O,Kennedy-Wilson Holdings Inc., M6,4/4/2010,11
+O,Liberty Property Trust, O3,12/12/2012,13
+O,Ritchie Bros. Auctioneers Incorporated, Y5,7/25/2000,21
+O,Invesco California Value Municipal Income Trust, U6,1/20/2005,9
+O,State Street Corporation, I8,11/24/2006,16
+O,Eagle Growth and Income Opportunities Fund, F6,2/4/2001,16
+O,SPX Corporation, O5,8/25/2000,9
+O,Weatherford International plc, Y7,12/23/2001,2
+O,Veritiv Corporation, M2,9/6/2015,18
+O,Cummins Inc., O5,12/16/2017,28
+O,Invesco Credit Opportunities Fund, A1,9/6/2011,4
+O,Eastman Chemical Company, B2,6/8/2006,10
+O,Mistras Group Inc, D0,8/3/2001,4
+O,TEGNA Inc., F8,8/16/2014,14
+O,Global Cord Blood Corporation, G3,7/13/2004,20
+O,NGL ENERGY PARTNERS LP, V7,4/16/2004,16
+O,Duke Energy Corporation, A6,1/6/2011,26
+O,Teekay LNG Partners L.P., L6,5/21/2015,25
+O,Capital One Financial Corporation, P2,1/11/2013,15
+O,Western Asset Emerging Markets Debt Fund Inc, T0,9/4/2016,11
+O,JMP Group LLC, G1,9/21/2006,21
+O,Cohen & Steers Reit and Preferred Income Fund Inc, W5,9/21/2007,21
+O,Blackrock Enhanced Equity Dividend Trust, Q1,4/26/2001,24
+O,Boeing Company (The), N9,8/20/2008,20
+O,Cloud Peak Energy Inc, G6,1/18/2011,27
+O,UNIVERSAL INSURANCE HOLDINGS INC, S2,4/20/2009,15
+O,Verizon Communications Inc., T1,3/4/2016,5
+O,Generac Holdlings Inc., Y4,9/15/2003,4
+O,PagSeguro Digital Ltd., I4,8/2/2008,13
+O,Western Asset Corporate Loan Fund Inc, D9,2/3/2002,1
+O,Nucor Corporation, H6,10/23/2001,27
+O,Crane Co., T5,1/17/2003,19
+O,Weatherford International plc, M0,10/3/2008,20
+O,Brown Forman Corporation, U5,6/25/2017,12
+O,PennyMac Mortgage Investment Trust, L4,12/26/2009,13
+O,Aspen Insurance Holdings Limited, H9,4/13/2014,23
+O,Yirendai Ltd., K3,10/16/2017,13
+O,Cummins Inc., P4,9/11/2002,1
+O,Nuveen S&P 500 Dynamic Overwrite Fund, I2,2/21/2016,22
+O,Navios Maritime Partners LP, S0,4/11/2018,29
+O,Gabelli Utility Trust (The), I7,2/11/2016,26
+O,BlackRock Income Investment Quality Trust, Q5,4/28/2001,26
+O,Lazard Ltd., Y6,8/22/2004,30
+O,Vornado Realty Trust, X7,7/11/2015,10
+O,North European Oil Royality Trust, M2,2/13/2004,20
+O,RenaissanceRe Holdings Ltd., I7,12/12/2001,12
+O,Albemarle Corporation, P5,1/14/2014,22
+O,Cadence Bancorporation, F7,8/27/2008,17
+O,Medley Management Inc., H8,4/3/2015,17
+O,DTE Energy Company, Z4,11/5/2008,21
+O,AngloGold Ashanti Limited, H4,10/26/2006,14
+O,Coca-Cola European Partners plc, P4,1/11/2001,5
+O,Kite Realty Group Trust, F0,12/10/2015,12
+O,Japan Smaller Capitalization Fund Inc, Y6,1/18/2017,19
+O,Aegon NV, M5,2/4/2001,29
+O,Noble Energy Inc., T0,7/27/2017,20
+O,Telecom Argentina Stet - France Telecom S.A., S7,8/18/2004,5
+O,NorthStar Realty Europe Corp., A4,10/20/2007,23
+O,Ferro Corporation, Z9,2/2/2007,7
+O,Maxar Technologies Inc., I1,12/19/2004,11
+O,Drive Shack Inc., V2,5/6/2015,10
+O,Kohl&#39;s Corporation, H8,2/10/2012,2
+O,Graf Industrial Corp., N2,11/2/2012,2
+O,Wipro Limited, E2,8/3/2008,16
+O,ESCO Technologies Inc., A3,7/15/2000,25
+O,Qudian Inc., Z8,1/11/2004,13
+O,Bank of America Corporation, V8,1/1/2015,3
+O,Ambev S.A., P8,5/13/2017,13
+O,BBX Capital Corporation, P4,1/4/2013,2
+O,iStar Inc., D7,3/8/2000,30
+O,Pennsylvania Real Estate Investment Trust, X0,8/7/2002,19
+O,Tribune Media Company, S1,7/21/2004,27
+O,GasLog Partners LP, H3,8/7/2008,13
+O,Anworth Mortgage Asset  Corporation, K1,12/24/2000,6
+O,General Motors Company, Q6,9/2/2004,13
+O,Schlumberger N.V., F6,4/4/2001,25
+O,Kemper Corporation, B0,7/6/2003,30
+O,GasLog LP., I4,4/7/2015,23
+O,National Steel Company, K4,4/26/2017,22
+O,The Madison Square Garden Company, K7,12/20/2014,24
+O,BlackRock Maryland Municipal Bond Trust, B8,11/7/2014,7
+O,OMNOVA Solutions Inc., B0,8/6/2017,4
+O,BrightSphere Investment Group plc, A0,11/6/2010,18
+O,Griffon Corporation, L3,10/6/2002,6
+O,TechnipFMC plc, B5,8/15/2005,15
+O,Allstate Corporation (The), M0,8/7/2011,8
+O,InterXion Holding N.V., M2,4/27/2008,1
+O,Chesapeake Granite Wash Trust, F9,9/20/2012,5
+O,Crown Castle International Corporation, J2,10/28/2002,16
+O,John Hancock Premium Dividend Fund, D5,7/14/2006,7
+O,Harris Corporation, K5,10/14/2004,9
+O,Union Acquisition Corp., Z4,4/25/2013,12
+O,LendingClub Corporation, W1,7/26/2000,7
+O,Eaton Vance Tax-Advantaged Global Dividend Income Fund, R7,4/3/2007,21
+O,Quest Diagnostics Incorporated, N2,2/21/2007,13
+O,Vista Outdoor Inc., O8,5/11/2013,27
+O,Invesco Pennsylvania Value Municipal Income Trust, N1,6/11/2010,11
+O,Far Point Acquisition Corporation, M6,8/28/2016,15
+O,Arthur J. Gallagher & Co., U3,4/6/2000,13
+O,Dynagas LNG Partners LP, X8,6/16/2001,15
+O,John Hancock Tax-Advantaged Global Shareholder Yield Fund, F1,11/17/2017,24
+O,Green Dot Corporation, R8,10/24/2011,19
+O,Atkore International Group Inc., Y1,4/22/2003,3
+O,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION, G0,1/13/2015,5
+O,Wells Fargo Global Dividend Opportunity Fund, Z3,5/2/2009,1
+O,LINE Corporation, K5,2/5/2011,17
+O,Tsakos Energy Navigation Ltd, E8,5/21/2015,26
+O,RenaissanceRe Holdings Ltd., A6,3/19/2005,15
+O,Voya Natural Resources Equity Income Fund, A2,8/6/2012,11
+O,Phoenix New Media Limited, Y8,11/18/2015,21
+O,Investors Real Estate Trust, G7,4/12/2000,4
+O,Leo Holdings Corp., Q4,5/4/2008,15
+O,Ecolab Inc., M4,9/16/2015,7
+O,SITE Centers Corp., C1,12/16/2018,10
+O,Pennsylvania Real Estate Investment Trust, O6,8/24/2012,30
+O,Eaton Vance Municipal Income Trust, Z3,2/10/2001,10
+O,Monmouth Real Estate Investment Corporation, J8,3/5/2014,6
+O,FGL Holdings, J7,3/19/2004,21
+O,Abercrombie & Fitch Company, F6,7/8/2018,6
+O,Thermo Fisher Scientific Inc, I3,3/24/2016,18
+O,United Microelectronics Corporation, O9,11/28/2008,11
+O,Nuveen Diversified Dividend and Income Fund, S3,11/7/2016,16
+O,Guggenheim Credit Allocation Fund, N0,2/22/2004,3
+O,SJW Group, U7,1/22/2010,7
+O,Perspecta Inc., L0,9/18/2006,1
+O,MGIC Investment Corporation, C9,5/8/2003,24
+O,Transdigm Group Incorporated, S3,8/7/2008,22
+O,Zions Bancorporation N.A., Q3,7/10/2010,15
+O,Aegon NV, Z7,7/27/2014,28
+O,Mosaic Company (The), Z8,4/13/2005,25
+O,Natural Resource Partners LP, I5,7/1/2003,25
+O,PIMCO Income Strategy Fund II, M7,4/27/2013,8
+O,Western Asset Mortgage Capital Corporation, Q8,6/22/2007,7
+O,Nuveen Municipal Credit Income Fund, W0,2/1/2012,16
+O,International Paper Company, D8,12/12/2013,3
+O,Capital One Financial Corporation, R1,1/5/2016,21
+O,Iron Mountain Incorporated, L3,11/10/2001,17
+O,Stifel Financial Corporation, E5,1/15/2006,11
+O,Southern Company (The), O5,11/17/2014,16
+O,Deckers Outdoor Corporation, P0,7/5/2002,19
+O,M&T Bank Corporation, X8,10/3/2003,28
+O,Zymeworks Inc., L8,4/28/2015,16
+O,Prestige Consumer Healthcare Inc., X0,12/10/2012,2
+O,First Data Corporation, G1,5/19/2007,8
+O,Far Point Acquisition Corporation, K9,3/22/2004,17
+O,Domtar Corporation, V2,11/23/2017,27
+O,Callaway Golf Company, F1,9/14/2004,4
+O,Barrick Gold Corporation, J2,11/24/2005,8
+O,Micro Focus Intl PLC, S7,3/16/2018,9
+O,Murphy USA Inc., U9,11/24/2017,3
+O,China Southern Airlines Company Limited, D5,9/11/2002,26
+O,The GDL Fund, V0,6/9/2007,11
+O,Owens Corning Inc, W6,3/12/2002,23
+O,Avista Corporation, V1,1/28/2018,26
+O,Brookfield Real Assets Income Fund Inc., R8,5/4/2014,12
+O,J P Morgan Chase & Co, Y5,5/2/2016,13
+O,Eaton Vance Tax Advantaged Dividend Income Fund, P5,12/21/2005,17
+O,Allstate Corporation (The), W7,6/3/2000,11
+O,Marine Products Corporation, C0,2/28/2004,16
+O,Putnam Managed Municipal Income Trust, Z0,12/16/2010,12
+O,Teck Resources Ltd, R4,12/11/2015,29
+O,LMP Capital and Income Fund Inc., U9,3/9/2001,21
+O,Deluxe Corporation, A6,7/6/2014,23
+O,Westpac Banking Corporation, I0,10/22/2003,17
+O,Nuveen Emerging Markets Debt 2022 Target Term Fund, X8,8/15/2011,13
+O,Navios Maritime Holdings Inc., W8,2/11/2003,1
+O,GP Strategies Corporation, V9,1/12/2008,5
+O,Tekla Healthcare Investors, K5,9/12/2018,9
+O,Nustar Energy L.P., N5,1/25/2012,26
+O,Voya Emerging Markets High Income Dividend Equity Fund, U1,2/1/2009,1
+O,Royal Dutch Shell PLC, J4,10/20/2018,14
+O,Brookdale Senior Living Inc., R6,9/4/2010,22
+O,Hamilton Beach Brands Holding Company, U7,11/5/2012,8
+O,AquaVenture Holdings Limited, J9,10/12/2001,30
+O,Meritage Corporation, A8,2/8/2014,8
+O,The GDL Fund, Y3,3/28/2003,30
+O,Astrazeneca PLC, N8,10/23/2012,13
+O,Teva Pharmaceutical Industries Limited, S4,10/10/2018,28
+O,A.O Smith Corporation, H3,5/21/2000,15
+O,FGL Holdings, X5,10/16/2004,7
+O,Far Point Acquisition Corporation, S0,2/27/2009,7
+O,Stantec Inc, G0,4/23/2011,13
+O,Oi S.A., R8,12/5/2003,26
+O,Public Storage, L8,12/1/2014,8
+O,Graf Industrial Corp., K6,6/16/2004,7
+O,Noah Holdings Ltd., I5,9/28/2016,11
+O,Lockheed Martin Corporation, J7,6/4/2000,16
+O,Moog Inc., O9,5/4/2004,16
+O,Container Store (The), G6,11/23/2014,3
+O,Grana y Montero S.A.A., I1,7/6/2011,28
+O,Las Vegas Sands Corp., R7,10/27/2006,23
+O,The Charles Schwab Corporation, S1,2/20/2018,14
+O,Social Capital Hedosophia Holdings Corp., W2,12/20/2009,4
+O,Costamare Inc., C0,3/10/2009,13
+O,Teradata Corporation, K4,1/16/2008,26
+O,S&P Global Inc., T9,5/5/2008,30
+O,Blackrock Global, T3,1/22/2011,11
+O,BlackRock Municipal Income Trust, A5,9/28/2017,12
+O,PBF Energy Inc., V2,12/3/2010,19
+O,Israel Chemicals Shs, M0,3/13/2005,2
+O,Central Puerto S.A., Y7,2/1/2010,26
+O,Sony Corp Ord, T0,11/5/2016,27
+O,Aquantia Corp., R1,11/21/2015,8
+O,Deutsche Bank AG, K1,4/23/2001,7
+O,State Street Corporation, F9,1/4/2005,8
+O,Apergy Corporation, A2,12/17/2009,9
+O,MiX Telematics Limited, M8,4/18/2000,15
+O,Baxter International Inc., V5,4/4/2017,15
+O,Equinor ASA, J1,10/16/2002,1
+O,Invesco Pennsylvania Value Municipal Income Trust, G2,7/23/2018,10
+O,Welltower Inc., C4,3/16/2005,19
+O,Novartis AG, A4,2/15/2017,18
+O,Alibaba Group Holding Limited, O9,6/17/2016,8
+O,Eaton Vance Enhanced Equity Income Fund II, P7,9/3/2002,10
+O,PIMCO New York Municipal Income Fund III, D0,4/23/2002,4
+O,OUTFRONT Media Inc., A8,9/15/2012,6
+O,Anadarko Petroleum Corporation, U6,1/18/2013,26
+O,Nustar Energy L.P., X0,4/13/2009,24
+O,Bank of Nova Scotia (The), D3,9/24/2002,28
+O,General Motors Company, X6,5/18/2015,21
+O,Blackrock Muni New York Intermediate Duration Fund Inc, V3,5/14/2006,20
+O,Jabil Inc., Y8,12/9/2014,10
+O,Regions Financial Corporation, Q8,1/5/2016,11
+O,International Paper Company, P0,8/21/2004,9
+O,CMS Energy Corporation, N2,10/8/2003,6
+O,Flaherty & Crumrine Preferred Income Opportunity Fund Inc, P4,5/24/2012,23
+O,Nordic American Tankers Limited, H8,12/5/2008,3
+O,Xinyuan Real Estate Co Ltd, G3,2/19/2003,11
+O,Gorman-Rupp Company (The), D2,1/23/2008,22
+O,Textainer Group Holdings Limited, H3,11/14/2015,20
+O,Apartment Investment and Management Company, S1,6/11/2001,15
+O,Saratoga Investment Corp, D0,3/7/2017,2
+O,State Street Corporation, A9,7/4/2007,16
+O,Cementos Pacasmayo S.A.A., R4,3/13/2005,27
+O,DaVita Inc., Q5,12/11/2018,29
+O,GrubHub Inc., C5,9/24/2004,9
+O,Macquarie First Trust Global, E6,12/18/2015,23
+O,NexPoint Strategic Opportunities Fund, P4,1/20/2005,10
+O,Kirby Corporation, W9,8/3/2007,24
+O,Restaurant Brands International Inc., H8,8/20/2013,26
+O,Pioneer Natural Resources Company, H3,1/7/2005,18
+O,Ashford Hospitality Trust Inc, C4,6/26/2014,20
+O,Clearwater Paper Corporation, J3,10/12/2006,12
+O,Dover Corporation, Y3,4/3/2012,17
+O,Hershey Company (The), E6,6/26/2000,21
+O,Generac Holdlings Inc., O3,1/21/2001,11
+O,Markel Corporation, W0,4/22/2015,23
+O,Brookfield Real Assets Income Fund Inc., Q7,5/12/2003,22
+O,Pitney Bowes Inc., Z8,10/18/2018,21
+O,Gerdau S.A., Y6,2/10/2012,5
+O,Federal Agricultural Mortgage Corporation, G3,5/3/2009,23
+O,Medley Capital Corporation, K6,12/26/2004,9
+O,Nuveen Georgia Quality Municipal Income Fund , F6,11/11/2006,11
+O,Invesco Quality Municipal Income Trust, E5,6/7/2013,12
+O,Petroleo Brasileiro S.A.- Petrobras, T2,11/18/2017,15
+O,CVR Energy Inc., S9,12/13/2000,8
+O,CNX Midstream Partners LP, H8,6/20/2016,27
+O,Eros International PLC, C0,1/15/2004,14
+O,MSA Safety Incorporporated, G8,8/14/2006,27
+O,MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14, T8,3/22/2013,12
+O,Costamare Inc., O2,6/14/2001,24
+O,Southern California Edison Company, D0,7/25/2007,17
+O,Regalwood Global Energy Ltd., I1,10/4/2004,10
+O,Hersha Hospitality Trust, N9,10/10/2006,17
+O,The Blackstone Group L.P., B3,4/16/2017,24
+O,PIMCO New York Municipal Income Fund III, N3,3/23/2015,5
+O,Investors Real Estate Trust, Y0,10/26/2012,3
+O,Central Puerto S.A., X4,7/16/2002,13
+O,State Street Corporation, Y8,5/20/2001,12
+O,RLI Corp., G5,1/5/2003,25
+O,Diana Shipping inc., L8,9/10/2017,21
+O,Chesapeake Energy Corporation, K2,10/11/2015,3
+O,Axalta Coating Systems Ltd., I1,7/17/2015,28
+O,Fortuna Silver Mines Inc., E5,9/2/2011,10
+O,Heico Corporation, Z1,3/25/2002,21
+O,Baxter International Inc., Q3,10/7/2010,25
+O,Sensient Technologies Corporation, O5,1/7/2004,4
+O,Magnolia Oil & Gas Corporation, R5,2/26/2014,6
+O,Standex International Corporation, J1,11/2/2015,28
+O,Realogy Holdings Corp., Z3,7/26/2017,4
+O,Special Opportunities Fund Inc., S2,5/19/2018,20
+O,One Madison Corporation, N2,2/3/2000,2
+O,Far Point Acquisition Corporation, U8,12/21/2001,18
+O,Veritiv Corporation, T2,12/9/2009,9
+O,Nielsen N.V., Q2,7/17/2017,4
+O,Colfax Corporation, I3,7/25/2012,16
+O,OFG Bancorp, X6,11/24/2015,12
+O,Workiva Inc., B9,5/1/2002,20
+O,U.S. Bancorp, Y5,3/10/2001,22
+O,Wells Fargo & Company, H4,6/20/2003,3
+O,Frank&#39;s International N.V., J0,10/10/2002,8
+O,Triple-S Management Corporation, I8,9/24/2018,11
+O,Covanta Holding Corporation, I5,7/16/2001,26
+O,Dover Corporation, F3,8/3/2012,18
+O,La-Z-Boy Incorporated, Z6,3/21/2012,15
+O,The Charles Schwab Corporation, L6,1/16/2003,21
+O,Dick&#39;s Sporting Goods Inc, E1,6/21/2018,27
+O,Capital Senior Living Corporation, F7,1/27/2009,8
+O,Darling Ingredients Inc., V0,1/2/2016,28
+O,Dividend and Income Fund, U6,6/26/2002,8
+O,PIMCO Dynamic Credit and Mortgage Income Fund, F1,11/22/2000,7
+O,Teekay LNG Partners L.P., O0,6/18/2003,19
+O,Nuveen Diversified Dividend and Income Fund, N5,11/20/2007,7
+O,BlackRock Long-Term Municipal Advantage Trust, E6,2/3/2011,24
+O,Voya Global Advantage and Premium Opportunity Fund, E9,1/28/2006,8
+O,Venator Materials PLC, H4,11/23/2001,19
+O,Semgroup Corporation, J1,2/10/2011,24
+O,Walmart Inc., Z3,2/13/2004,3
+O,VOC Energy Trust, O0,8/10/2008,18
+O,Mastercard Incorporated, O9,7/23/2005,16
+O,ClearBridge MLP and Midstream Total Return Fund In, Y5,3/3/2009,3
+O,Western Asset Variable Rate Strategic Fund Inc., Q7,4/22/2009,17
+O,Smart, K4,6/11/2008,24
+O,Corporate Asset Backed Corp CABCO, Q4,6/19/2010,14
+O,Turkcell Iletisim Hizmetleri AS, E3,1/18/2005,15
+O,Mack-Cali Realty Corporation, U6,1/22/2017,14
+O,Morgan Stanley, D8,3/9/2006,4
+O,Saratoga Investment Corp, O8,7/7/2012,16
+O,DSW Inc., A4,11/9/2015,5
+O,John Hancock Preferred Income Fund, X3,6/24/2006,22
+O,Granite Real Estate Inc., J1,7/13/2007,22
+O,CVR Energy Inc., B7,6/16/2009,24
+O,Apergy Corporation, W4,6/11/2007,9
+O,Sanchez Energy Corporation, O7,8/7/2015,28
+O,RELX PLC, T4,3/17/2005,6
+O,Companhia Brasileira de Distribuicao, D2,1/2/2011,29
+O,Osisko Gold Royalties Ltd, F1,10/19/2017,25
+O,CTS Corporation, R2,7/17/2011,24
+O,BlackRock Virginia Municipal Bond Trust, K9,1/19/2001,22
+O,Hormel Foods Corporation, O3,3/25/2010,20
+O,CMS Energy Corporation, W6,11/5/2015,2
+O,Oshkosh Corporation, M0,5/9/2013,11
+O,Teleflex Incorporated, C4,1/20/2011,18
+O,Drive Shack Inc., J0,1/9/2000,28
+O,Third Point Reinsurance Ltd., E9,4/13/2012,10
+O,Blackstone GSO Senior Floating Rate Term Fund, N8,7/18/2016,3
+O,Qwest Corporation, B6,2/9/2013,13
+O,American Homes 4 Rent, V4,3/23/2008,29
+O,Acushnet Holdings Corp., W2,7/12/2006,18
+O,Qwest Corporation, K5,1/19/2009,6
+O,Dividend and Income Fund, S9,12/23/2012,13
+O,Raytheon Company, T0,8/14/2013,16
+O,GATX Corporation, L8,9/13/2001,16
+O,Campbell Soup Company, Y1,10/16/2005,2
+O,GasLog LP., K5,7/27/2006,28
+O,Tenneco Inc., V8,11/13/2011,3
+O,Apollo Commercial Real Estate Finance, Q2,10/27/2016,9
+O,Enel Chile S.A., V9,3/25/2000,27
+O,Banco Santander Brasil SA, Y4,4/15/2002,21
+O,Jabil Inc., F5,1/12/2007,3
+O,Arcos Dorados Holdings Inc., L8,3/14/2006,1
+O,Progressive Corporation (The), G0,10/3/2013,23
+O,Sotheby&#39;s, M1,5/28/2012,28
+O,ClearBridge MLP and Midstream Total Return Fund In, T4,6/12/2002,2
+O,Resolute Energy Corporation, F4,5/2/2010,23
+O,FGL Holdings, U4,7/15/2018,18
+O,Heico Corporation, B9,2/25/2014,20
+O,Teck Resources Ltd, D8,5/19/2000,13
+O,MFS Government Markets Income Trust, X9,8/18/2011,25
+O,BlackRock Science and Technology Trust, Y4,5/13/2004,13
+O,Resolute Energy Corporation, Y7,6/7/2009,24
+O,Nuveen Ohio Quality Municipal Income Fund, K5,10/26/2011,3
+O,Verso Corporation, K7,8/1/2007,16
+O,Tennessee Valley Authority, R0,6/15/2018,7
+O,NewJersey Resources Corporation, E9,4/14/2008,7
+O,United States Cellular Corporation, J2,10/3/2005,1
+O,Booz Allen Hamilton Holding Corporation, C3,3/4/2004,2
+O,Invesco Value Municipal Income Trust, P4,5/15/2013,13
+O,FirstEnergy Corp., F7,4/24/2003,23
+O,JBG SMITH Properties, T8,9/24/2006,17
+O,Hersha Hospitality Trust, J0,4/22/2015,8
+O,PolyOne Corporation, D1,3/3/2009,19
+O,Mechel PAO, O7,5/14/2013,29
+O,Citigroup Inc., B6,10/1/2014,3
+O,Wabash National Corporation, G8,9/9/2005,27
+O,Canada Goose Holdings Inc., R6,8/14/2007,6
+O,American Tower Corporation (REIT), Q4,5/27/2009,14
+O,VALE S.A., P0,4/25/2009,16
+O,Booz Allen Hamilton Holding Corporation, B3,10/24/2007,13
+O,John Bean Technologies Corporation, J4,6/11/2004,24
+O,Annaly Capital Management Inc, H6,4/28/2002,28
+O,Stryker Corporation, G4,12/28/2005,1
+O,Miller/Howard High Income Equity Fund, A8,8/1/2000,25
+O,National Retail Properties, O7,10/16/2008,11
+O,First Horizon National Corporation, I6,5/17/2005,11
+O,Natural Resource Partners LP, B5,2/10/2018,11
+O,Adecoagro S.A., M5,10/23/2017,27
+O,Stryker Corporation, K0,7/28/2000,17
+O,PIMCO New York Municipal Income Fund III, S6,8/24/2008,18
